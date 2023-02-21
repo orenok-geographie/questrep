@@ -1,0 +1,39 @@
+[
+    {
+        "question":"Lequel de ces pays a obtenu son indépendance en dernier ?",
+        "propositionune": "Irelande",
+        "propositiondeux": "Liberia",
+        "propositiontrois": "Mexique",
+        "propositionquatre" : "Colombie",
+        "reponse" : "Irelande",
+        "petiteinfo" : "L'irlande a obtenu son indépendance en 1937, le libéria en 1847, Le Mexique en 1821 et la Colombie en 1819"
+
+    },
+    {
+        "question":"Combien de pays y-a-t'il sur l'île de Bornéo ? ",
+        "propositionune": "1",
+        "propositiondeux": "2",
+        "propositiontrois": "3",
+        "propositionquatre" : "4",
+        "reponse" : "3",
+        "petiteinfo" : "L'île est partagée entre 3 pays : la Malaisie, le Sultanat de Brunei et l'Indonésie."
+    },
+    {
+        "question":"A Quel pays appartien l'île d'Amsterdam situé dans l'océan indien ? ",
+        "propositionune": "A la France",
+        "propositiondeux": "Aux États-Unis d'Amérique",
+        "propositiontrois": "Aux Pays-Bas",
+        "propositionquatre" : "A l'Allemagne",
+        "reponse" : "A la France",
+        "petiteinfo" : "L'île appartien à la France." 
+    },
+    {
+        "question":"Combien y a t'il d'habitants dans l'État du Wyoming  ? ",
+        "propositionune": "578 803",
+        "propositiondeux": "8 350 924",
+        "propositiontrois": "17 702 248",
+        "propositionquatre" : "26 214 209",
+        "reponse" : "578 803",
+        "petiteinfo" : "Il s'agit de l'état le moin peuplé des É~tats-Unis." 
+    }
+]
