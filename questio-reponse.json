@@ -1,12 +1,12 @@
 [
     {
         "question":"Lequel de ces pays a obtenu son indépendance en dernier ?",
-        "propositionune": "Irelande",
-        "propositiondeux": "Liberia",
-        "propositiontrois": "Mexique",
-        "propositionquatre" : "Colombie",
-        "reponse" : "Irelande",
-        "petiteinfo" : "L'irlande a obtenu son indépendance en 1937, le libéria en 1847, Le Mexique en 1821 et la Colombie en 1819"
+        "propositionune": "L'Irelande",
+        "propositiondeux": "Le Liberia",
+        "propositiontrois": "Le Mexique",
+        "propositionquatre" : "La Colombie",
+        "reponse" : "L'Irelande",
+        "petiteinfo" : "L'irlande a obtenu son indépendance en 1937, le libéria en 1847, Le Mexique en 1821 et la Colombie en 1819."
 
     },
     {
@@ -19,21 +19,828 @@
         "petiteinfo" : "L'île est partagée entre 3 pays : la Malaisie, le Sultanat de Brunei et l'Indonésie."
     },
     {
-        "question":"A Quel pays appartien l'île d'Amsterdam situé dans l'océan indien ? ",
+        "question":"A Quel pays appartient l'île d'Amsterdam situé dans l'océan indien ?",
         "propositionune": "A la France",
         "propositiondeux": "Aux États-Unis d'Amérique",
         "propositiontrois": "Aux Pays-Bas",
         "propositionquatre" : "A l'Allemagne",
         "reponse" : "A la France",
-        "petiteinfo" : "L'île appartien à la France." 
+        "petiteinfo" : "Contrairement à ce que son nom pourrait laisser croire, l'île d'Amsterdam appartient à la France. L'île abrite aujourd'hui une base scientifique mais aucun résident ni vit de manière permanante." 
     },
     {
         "question":"Combien y a t'il d'habitants dans l'État du Wyoming  ? ",
-        "propositionune": "578 803",
-        "propositiondeux": "8 350 924",
-        "propositiontrois": "17 702 248",
-        "propositionquatre" : "26 214 209",
-        "reponse" : "578 803",
-        "petiteinfo" : "Il s'agit de l'état le moin peuplé des É~tats-Unis." 
+        "propositionune": "Moins d'un million",
+        "propositiondeux": "Entre 1 et 5 millions",
+        "propositiontrois": "Entre 5 et 10 millions",
+        "propositionquatre" : "Plus de 10 millions",
+        "reponse" : "Moins d'un million",
+        "petiteinfo" : "Le Wyoming compte 578 803 habitants, il s'agit de l'état le moins peuplé des États-Unis." 
+    },
+    {
+        "question":"Quelle taille fait le Nil ?",
+        "propositionune":"Moins de 2000 km",
+        "propositiondeux":"Entre 2000 et 4000 km",
+        "propositiontrois":"Entre 4000 et 6000 km",
+        "propositionquatre":"Plus de 6000 km",
+        "reponse":"Plus de 6000 km",
+        "petiteinfo":"Le Nil, qui se forme de la rencontre à Karthoum (au Soudan) entre le Nil Blanc qui prend sa source dans le lac Victoria et le Nil Bleu qui prend sa source en Éthiopie à une longueur d'environ 6700 Km."
+    },
+    {
+        "question":"Quelle est la hauteur du Mont Everest ?",
+        "propositionune":"4810 mètres",
+        "propositiondeux":"5895 mètres",
+        "propositiontrois":"6961 mètres",
+        "propositionquatre":"8848 mètres",
+        "reponse":"8848 mètres",
+        "petiteinfo":"L'Everest atteint 8848 mètres. La première réponse (4810 mètres) correspond à l'altitude atteind par le Mont-Blanc, la deuxième réponse (5895 mètres) correspond à celle atteind par le Kilimandjaro, plus haut sommet d'Afrique, tandis que la troisième (6961 mètres) correspond à l'altitude de l'Aconcagua, plus haut sommet d'Amérique. "
+    },
+    {
+       "question":"A quelles dates se sont déroulés les travaux du Baron Haussman à Paris ?",
+       "propositionune":"De 1828 à 1835",
+       "propositiondeux":"De 1836 à 1852",
+       "propositiontrois":"De 1853 à 1870",
+       "propositionquatre":"De 1871 à 1889",
+       "reponse":"De 1853 à 1870",
+       "petiteinfo":"Les Travaux d'Haussman se sont déroulés pendant presque toute la durée du Second Empire" 
+    },
+    {
+        "question":"Aujourd'hui, le Cap-Vert compte près de 600 000 habitants, combien en comptait-il avant l'arrivé des colons portugais au XVème siècle ?",
+        "propositionune":"0",
+        "propositiondeux":"Environ 1 million",
+        "propositiontrois":"Environ 5 millions",
+        "propositionquatre":"Environ 10 millions",
+        "reponse":"0",
+        "petiteinfo":"Avant leur découverte par les colons portugais, l'île n'était pas peuplé."
+
+    },
+    {
+        "question":"Quelle est la devise du Royaume-Uni ?",
+        "propositionune":"Dieu et mon droit",
+        "propositiondeux":"God Save the King",
+        "propositiontrois":"God's will first",
+        "propositionquatre":"Actibus immensis urbs fulget massiliensis",
+        "reponse":"Dieu et mon droit",
+        "petiteinfo":"Eh oui, la devise du Royaume-Uni est en français. 'Dieu et mon droit' est le cris de guerre de la monarchie britanique depuis Henry IV, elle est en français car depuis la conquête de l'Angleterre par Guillaume le Conquérant le français et la langue des élites anglaise. God Save the King est le nom de l'hymne du Royaume-Uni, 'God's will first' est la devise de Nauru et 'Actibus immensis urbs fulget massiliensis' qui signifie : 'La ville de Marseille brille par ses hauts faits' est la devise de Marseille.  "
+    },
+    {
+        "question":"Lequel de ces pays compte le plus d'athés ?",
+        "propositionune":"Les pays-Bas",
+        "propositiondeux":"La France",
+        "propositiontrois":"La Tchéquie",
+        "propositionquatre":"La Pologne",
+        "reponse":"La Tchéquie",
+        "petiteinfo":"Dans pratiquement toutes les études, la Tchèquie apparaît comme étant le pays qui compte le plus d'athé en Europe, devant la Suède et la France et étant devancée seulement par la Chine et le Japon dans le monde. Si vous voulez savoir pourquoi il y a tant d'athés en république Tchèque, il y a un article qui répond à cette question sur le site ;)."
+    },
+    {
+        "question":"Quelle ville est surnomée la ville aux 52 monuments ?",
+        "propositionune":"Amsterdam",
+        "propositiondeux":"Tunis",
+        "propositiontrois":"Bamako",
+        "propositionquatre":"Istanbul",
+        "reponse":"Bamako",
+        "petiteinfo":"Lorsque Alpha Oumar Konaré devient président du Mali en 1992, il lance une grande campagne de création de monuments, parmi ceux-ci le Monument aux héros de l'Armée noire, L'obélisque des Idéogrammes ou encore la Place des martyrs de Thiaroye "
+    },
+    {
+        "question":"Sur combien de pays s'étend la Laponie ?",
+        "propositionune":"1",
+        "propositiondeux":"2",
+        "propositiontrois":"3",
+        "propositionquatre":"4",
+        "reponse":"4",
+        "petiteinfo":"La laponie s'étend sur les territoires norvégien, suédois, finlandais et russe"
+    },
+    {
+        "question":"Quelle est la distance à vol d'oiseau entre New-York et Brest ?",
+        "propositionune":"4383 km",
+        "propositiondeux":"5383 km",
+        "propositiontrois":"6383 km",
+        "propositionquatre":"10 383 km",
+        "reponse":"5383 km",
+        "petiteinfo":"Soit environ 5 fois la distance en vol d'oiseau entre Brest et Monaco."
+    },
+    {
+        "question":"Dans quelle ville le Nil Bleu et le Nil Blanc se rejoignent-ils pour former le Nil ?",
+        "propositionune":"Le Caire",
+        "propositiondeux":"Addis-Abeba",
+        "propositiontrois":"Khartoum",
+        "propositionquatre":"Abou Simbel",
+        "reponse":"Khartoum",
+        "petiteinfo":"Le Nil Blanc qui prend sa source dans le lac Victoria et le Nil Bleu en Éthiopie se rejoignent dans l'actuelle capitale du Soudan "
+    },
+    {
+        "question":"En quelle langue est la devise officielle des pays-bas ?",
+        "propositionune":"En néerlandais",
+        "propositiondeux":"En latin",
+        "propositiontrois":"En norois",
+        "propositionquatre":"En français",
+        "reponse":"En français",
+        "petiteinfo":"La devise des Pays-Bas est : Je maintiendrai. C'était la devise de Guillaume Ier, considéré comme Le père de la Patrie par les Néerlandais il est celui qui a mené la révolte de son peuple contre les espagnoles qui alors régner sur le pays. "
+    },
+    {
+        "question":"Quelle est la deuxième ville la plus peuplée du Royaume-Uni ?",
+        "propositionune":"Birmingham",
+        "propositiondeux":"Manchester",
+        "propositiontrois":"Liverpool",
+        "propositionquatre":"Édimbourg",
+        "reponse":"Birmingham",
+        "petiteinfo":"La ville de Birmingham compte environ 1 100 000 habitants et est le coeur d'une agglomération de plus de 4 millions d'habitants. Manchester est la quatrième ville la plus importante du Royaume-Uni avec près de 600 000 habitant (3,3 millions pour son aire urbaine) tandis qu'Édimbourg en est la cinquième avec près de 500 000 habitants (près de 1 000 000 pour son aire urbaine). C'est deux villes se situe donc derrière Glasgow qui est la troisième plus grande ville du Royaume-Uni."
+
+    },
+    {
+        "question":"Lequel de ces pays ne fait pas partie de la Scandinavie ?",
+        "propositionune":"La Finlande",
+        "propositiondeux":"La Norvège",
+        "propositiontrois":"La Suède",
+        "propositionquatre":"Le Danemark",
+        "reponse":"La Finlande",
+        "petiteinfo":"Contrairement à une idée reçue, la Finlande ne fait pas partie de la Scandinavie, elle ne fait pas partie de la péninsule scandinave, le finois est une langue qui fait partie de la famille des langues finno-ougriennes et non de la famille germanique comme c'est le cas pour les langues des trois autres pays. De plus, historiquement et culturellement la Finlande se distingue sur de nombreux point de ses voisins."
+
+    },
+    {
+        "question":"Avec quel pays la France partage-t-elle sa plus grande frontière ?",
+        "propositionune":"L'Italie'",
+        "propositiondeux":"L'Allemagne",
+        "propositiontrois":"L'Espagne",
+        "propositionquatre":"Le Brésil",
+        "reponse":"Le Brésil",
+        "petiteinfo":"Grace au département de la Guyane la France partage environ 730 km de frontière avec le Brésil, c'est plus qu'avec l'Espagne (623 km), l'Italie (515 km) ou encore l'Allemagne (448 km)."
+    },
+    {
+        "question":"Avec lequel de ces pays la France ne possède t-elle pas de frontière commune ?",
+        "propositionune":"Les Pays-Bas",
+        "propositiondeux":"Le Surninam",
+        "propositiontrois":"Le Liechtenstein",
+        "propositionquatre":"Monaco",
+        "reponse":"Le Liechtenstein",
+        "petiteinfo":"La France possède 13 km de frontière commune avec les pays-Bas, l'île de Saint-Marin étant divisée entre une partie française et une partie néerlandaise, grace au département de la Guyane, La France possède 520 km de frontière avec le Surinam et elle 73 kilomètre de frontière avec le Luxembourg. "
+    },
+    {
+        "question":"Lequel de ces pays ne faisait pas partie de la Yougoslavie ?",
+        "propositionune":"La Slovaquie",
+        "propositiondeux":"La Macédoine du nord",
+        "propositiontrois":"L'Albanie",
+        "propositionquatre":"Le Monténégro",
+        "reponse":"L'Albanie",
+        "petiteinfo":"La Yougoslavie était formée de six républiques socialistes fédérées : la Serbie, la Croatie, la Bosnie-Herzégovine, la Slovénie, le Monténégro et la Macédoine. L'Albanie, quant à elle, était un État communiste indépendant dirigé par Enver Hoxha jusqu'en 1992."
+    },
+    {
+        "question":"Quelle est la capitale du Libéria ?",
+        "propositionune":"Monrovia",
+        "propositiondeux":"Kingstown",
+        "propositiontrois":"Kingston",
+        "propositionquatre":"Mogadiscio",
+        "reponse":"Monrovia",
+        "petiteinfo":"Kingstown est la capitale de Saint-Vincent-et-les-Grenadines, Kingston et la capitale de la Jamaique et Mogadiscio est la capitale Somalie. "
+    },
+    {
+        "question":"Combien de pays africains sont aujourd'hui des monarchies ?",
+        "propositionune":"0",
+        "propositiondeux":"1",
+        "propositiontrois":"2",
+        "propositionquatre":"3",
+        "reponse":"3",
+        "petiteinfo":"le Maroc et le Lesotho sont des monarchies constitutionnelles bien que le roi ait énorméments de pouvoir au Maroc, L'Eswatini est une monarchie absolue. "
+    },
+    {
+        "question":"Lequel de ces pays n'est pas une monarchie ?",
+        "propositionune":"Le Maroc",
+        "propositiondeux":"Les Pays-Bas",
+        "propositiontrois":"Le Japon",
+        "propositionquatre":"Le Kazakhstan",
+        "reponse":"Le Kazakhstan",
+        "petiteinfo":"Willem-Alexander est le roi des Pays-Bas, Mohammed VI est le roi du Maroc, Naruhito est l'empreur du Japon."
+    },
+    {
+        "question":"Lequel de ces pays compte le taux de suicide le plus important (selon les données de l'OMS de 2019) ?",
+        "propositionune":"Le Japon",
+        "propositiondeux":"La Belgique",
+        "propositiontrois":"Le Lesotho",
+        "propositionquatre":"La Finlande",
+        "reponse":"Le Lesotho",
+        "petiteinfo":"Contrairement à une idée reçue, le Japon n'est pas le pays où l'on se suicide le plus. Dans le 'classement' effectué par l'Organisation Monidale de la Santé il est le 49ème pays qui compte le plus de suicides en proportion de sa population avec un taux de 12,2 suicides pour 100 000 habitants.  Le Lesotho avec un taux 87,5 suicicdes pour 100 000 habitants et le premier du 'classement', La Belgique avec un taux de 13,9‰ est 35 tandis que la Finlande avec un taux de 13,4‰ est 38ème tandis que le Japon  est 41ème. ,  "
+    },    
+    {
+        "question":"Combien d'habitant compte Saint-Vincent et les Grenadines en 2021 (selon la Banque Mondiale ) ?",
+        "propositionune":"12 458",
+        "propositiondeux":"33 415",
+        "propositiontrois":"77 361",
+        "propositionquatre":"104 332",
+        "reponse":"104 332",
+        "petiteinfo":"Selon les données de la Banques Monidale de 2021, Saint-Vincent et les Grandines compte 104 332 habitants."
+    },
+    {
+        "question":"Quel explorateur à découvert la terre Adélie et lui à donné le nom de sa femme ?",
+        "propositionune":"Charles Marie de La Condamine",
+        "propositiondeux":"Jules Dumont d'Urville",
+        "propositiontrois":"René Charcot",
+        "propositionquatre":"Jacques-Yves Cousteau",
+        "reponse":"Jules Dumont d'Urville",
+        "petiteinfo":"Jules Dumont d'Urville a donné le nom de Terre Adélie à cette partie de l'Antarctique, découverte en 1840, en hommage à sa femme qui se prénomée Adèle."
+    },
+    {
+        "question":"Lequel de ces pays est le plus proche du pôle Nord ?",
+        "propositionune":"Le Danemark",
+        "propositiondeux":"Le Canada",
+        "propositiontrois":"La russie",
+        "propositionquatre":"Les États-Unis d'Amérique",
+        "reponse":"Le Danemark",
+        "petiteinfo":"Le Groenland fait partie du royaume du Danemark, c'est donc le Danemark qui est le plus proche du pôle Nord."
+    },
+    {
+        "question":"Lequel de ces pays à la supericie la plus importante ?",
+        "propositionune":"L'Arabie Saoudite",
+        "propositiondeux":"L'Algérie",
+        "propositiontrois":"La république Démocratique du Congo",
+        "propositionquatre":"La France",
+        "reponse":"L'Algérie",
+        "petiteinfo":"Selon les données de la Banque Mondiale de 2020, l'alégérie à une superficie de 2 381 741 km², La république Démocratique du Congo de 2 344 860 km², L'Arabie Saoudite de 2 149 690 km² et la France de 549 087 km². "
+    },
+    {
+        "question":"Le Timor Oriental est un pays d'Asie du Sud-Est, que signifie Timur dont est issu le mot Timor en malais ?",
+        "propositionune":"Beau",
+        "propositiondeux":"Île",
+        "propositiontrois":"Orient",
+        "propositionquatre":"Caillou",
+        "reponse":"Orient",
+        "petiteinfo":"Timor signifie Orient, voire Est, en Malais. Le nom de ce pays est donc composé de termes qui signifient tous deux « est / orient »."
+    },
+    {
+        "question":"Lequel de ces pays à le PIB le plus important en 2021 (en $ US courants, selon la Banque Mondiale) ?",
+        "propositionune":"La Colombie",
+        "propositiondeux":"l'Algérie",
+        "propositiontrois":"La biélorussie",
+        "propositionquatre":"Le Viet-nam",
+        "reponse":"Le Viet-nam",
+        "petiteinfo":"Le PIB du Viet Nam était de 366 137,59 millions de $, celui de la Colombie de 314 464,14 millions de $, celui de l'Algérie de 163 044,44 millions de $ et celui de la Biélorussie de 68 205,38 millions de $."
+    },
+    {
+        "question":"A quelle attitude se situe la ville la plus haute du monde (plus de 50 000 habitants) ?",
+        "propositionune":"La Rinconada (Pérou)",
+        "propositiondeux":"Shigatsé (Chine)",
+        "propositiontrois":"La Paz (Bolivie)",
+        "propositionquatre":"Chambéry (France)",
+        "reponse":"La Rinconada (Pérou)",
+        "petiteinfo":"La Rinconada situé entre 4 750 m et 5 300 m d’altitude dans les Andes Péruviennes compte environ 60 000 habitants "
+    },
+    {
+        "question":"Dans quel océan se trouve la fosse des Mariannes, le point le plus profond de la Terre ?",
+        "propositionune":"Dans l'Océan Indien",
+        "propositiondeux":"Dans l'Océan Pacifique",
+        "propositiontrois":"Dans l'Océan Atlantique",
+        "propositionquatre":"Dans l'Océan Artique",
+        "reponse":"Dans l'Océan Pacifique",
+        "petiteinfo":"Longue d'environ 2 550 km de long et large de 70 km, le point le plus profond connu actuellement se situe à environ 11 034 mètres en dessous du niveau de la mer."
+    },
+    {
+        "question":"Quelle est la chaîne de montagnes la plus longue du monde ?",
+        "propositionune":"La Chaîne Transantarctique",
+        "propositiondeux":"La Cordillère des Andes",
+        "propositiontrois":"La Cordillère Australienne",
+        "propositionquatre":"Les Montagnes Rocheuses",
+        "reponse":"La Cordillère des Andes",
+        "petiteinfo":"La Cordillère des Andes atteint environ 7 100 km, c'est 4 800 km pour les Rocheuses, 3 700 km pour la Cordillaire Australienne et 3 500 La Chaîne Transantarctique. La chaîne de l'Himalaya n'atteind est que 2 400 km de longueure. "
+    },
+    {
+        "question":"Quel est le plus grand lac du monde ?",
+        "propositionune":"Le lac Huron",
+        "propositiondeux":"Michigan",
+        "propositiontrois":"Le lac Victoria",
+        "propositionquatre":"Le lac Supérieur",
+        "reponse":"Le lac Supérieur",
+        "petiteinfo":"Non la Mer Caspienne n'est pas le plus grand lac du monde, pendant un temmps son statut juridique complexe pour des raisons géopolitique la classée dans la catégorie des lacs mais ce n'est plus le cas depuis un accord signé par les pays riverins en 2018. Le lac Supérieur a une superficie de 82 100 km². "
+    },
+    {
+        "question":"Dans quel pays se trouve le parc national des Galapagos, célèbre pour ses espèces endémiques ?",
+        "propositionune":"En Équateur",
+        "propositiondeux":"Au Brésil",
+        "propositiontrois":"Aux Philippines",
+        "propositionquatre":"En Malaisie",
+        "reponse":"En Équateur",
+        "petiteinfo":"Il a une superficie de 7 995,40 km²."
+    },
+    {
+        "question":"Quel est le plus grand fleuve d'Afrique ?",
+        "propositionune":"Le Nil",
+        "propositiondeux":"Le Congo",
+        "propositiontrois":"Le Niger",
+        "propositionquatre":"Le Zambèze",
+        "reponse":"Le Nil",
+        "petiteinfo":"Le Nil à une longeure de 6 853 km, le fleuve Congo a lui une longueure de 4 700 km (source : Wikipédia)."
+    },
+    {
+        "question":"Quel est le plus grand fleuve d'Asie ?",
+        "propositionune":"Le Gange",
+        "propositiondeux":"Le Huang He (fleuve Jaune)",
+        "propositiontrois":"Le Mékong",
+        "propositionquatre":"Yangtsé (Fleuve Bleu)",
+        "reponse":"Le Yangzi Jiang (Fleuve Bleu)",
+        "petiteinfo":"Sa longeure est de 6 380 km (source : Wikipédia)."
+    },
+    {
+        "question":"Dans quel pays se trouve le mont Kilimandjaro, le point culminant de l'Afrique ?",
+        "propositionune":"Afrique du Sud",
+        "propositiondeux":"Kenya",
+        "propositiontrois":"Somalie",
+        "propositionquatre":"Tanzanie",
+        "reponse":"Tanzanie",
+        "petiteinfo":"Le mont Kilimandjaro atteint 5 895 mètres d'altitude. Il s'agit du plus haut sommet d'Afrique."
+    },
+    {
+        "question":"Dans quel pays se trouve le mont Everest, le point culminant de la Terre ?",
+        "propositionune":"A la frontière entre le Népal et la Chine",
+        "propositiondeux":"A la frontière entre le Népal et l'Inde'",
+        "propositiontrois":"A la frontière entre le Népal et le Bouthan",
+        "propositionquatre":"A la frontière entre l'Inde et le Bouthan",
+        "reponse":"A la frontière entre le Népal et la Chine",
+        "petiteinfo":""
+    },
+    {
+        "question":"Quelle est la ville la plus peuplée d'Amérique du Sud ?",
+        "propositionune":"Bogota",
+        "propositiondeux":"Buenos Aires",
+        "propositiontrois":"Rio de Janeiro",
+        "propositionquatre":"Sao Paulo",
+        "reponse":"Sao Paulo",
+        "petiteinfo":"L'agglomération de Sao Paulo compte 21 millions d'habitants, celle de Bueos Aires 15 millions, celle de Rio de Janeiro 14 millions et celle de Bogota 10, 5 millions. Ces quatre villes sont les plus peuplées de l'Amérique du Sud."
+    },
+    {
+        "question":"Dans quel océan se trouve l'île de Pâques ?",
+        "propositionune":"Dans l'Océan Indien",
+        "propositiondeux":"Dans l'Océan Pacifique",
+        "propositiontrois":"Dans l'Océan Atlantique",
+        "propositionquatre":"Dans l'Océan Artique",
+        "reponse":"Dans l'Océan Pacifique",
+        "petiteinfo":"L'île qui appartient au Chili est située à 3 525 km à l'ouest des côtes du pays."
+    },
+    {
+        "question":"Quelle est la plus grande ville d'Afrique par population ?",
+        "propositionune":"Alger",
+        "propositiondeux":"Lagos",
+        "propositiontrois":"Le Caire",
+        "propositionquatre":"Kinshasa",
+        "reponse":"Lagos",
+        "petiteinfo":"L'agglomération de Lagos compte 23 millions d'habitants, celle du Caire 20,5 millions, celle de Kinshasa 17 millions et celle d'Alger 8 millions. Il s'agit des quatre plus grande agglomération du continent. "
+    },
+    {
+        "question":"Quel est le pays qui possède la plus importante longuere de côtes ?",
+        "propositionune":"Canada",
+        "propositiondeux":"Danemark",
+        "propositiontrois":"Indonésie",
+        "propositionquatre":"Norvège",
+        "reponse":"Canada",
+        "petiteinfo":"Avec 202 080 km de côtes le Canada arrive premier de ce classement, la Norvège deuxième (104 600 km), l'Indonésie troisième (54 716 km) et le Danemark quatrième (52 518 km)"
+    },
+    {
+        "question":"Quel est le pays africain qui possède la plus grande superficie de forêt tropicale ? Quelle proportion de ce pays est de la forêt ?",
+        "propositionune":"",
+        "propositiondeux":"",
+        "propositiontrois":"",
+        "propositionquatre":"",
+        "reponse":"",
+        "petiteinfo":"https://www.ouest-france.fr/environnement/climat/carte-quel-est-le-pays-le-plus-boise-au-monde-6273472"
+    },
+
+    {
+        "question":"Quel est le pays européen qui possède la plus grande superficie de forêt ?",
+        "propositionune":"",
+        "propositiondeux":"",
+        "propositiontrois":"",
+        "propositionquatre":"",
+        "reponse":"",
+        "petiteinfo":"https://www.ouest-france.fr/environnement/climat/carte-quel-est-le-pays-le-plus-boise-au-monde-6273472"
+    },
+
+    {
+        "question":"Lequel de ces pays américains possède le plus d'hippopotame ?",
+        "propositionune":"",
+        "propositiondeux":"",
+        "propositiontrois":"",
+        "propositionquatre":"",
+        "reponse":"",
+        "petiteinfo":""
+    },
+    {
+        "question":"Quel  pays possède la plus grande superficie de désert ?",
+        "propositionune":"",
+        "propositiondeux":"",
+        "propositiontrois":"",
+        "propositionquatre":"",
+        "reponse":"",
+        "petiteinfo":""
+    },
+    {
+        "question":"Quelle est la particularité de l'hymne espagnol ?",
+        "propositionune":"Sa version entière dure 18 minutes",
+        "propositiondeux":"Il n'y a pas de paroles",
+        "propositiontrois":"Il est le seul hymne qui se joue uniquement à la guitar.",
+        "propositionquatre":"Il ne dure que 45 secondes",
+        "reponse":"Il n'y a pas de paroles",
+        "petiteinfo":""
+    },
+    {
+        "question":"Quelle est la plus haute falaise du monde ?",
+        "propositionune":"Cap Enniberg (Iles Féroé)",
+        "propositiondeux":"Umilehi Point (Hawaï, États-Unis)",
+        "propositiontrois":"Mont Lesquin (Archiperl des îles Crozet, France)",
+        "propositionquatre":"Preikestolen (Norvège)",
+        "reponse":"Mont Lesquin (Archiperl des îles Crozet, France)",
+        "petiteinfo":"Avec 1 012 mètres, le Mont Lesquin est la plus haute falaise du monde, devant Umilehi Point qui culmine 1 005 m au-dessus de l'océan Pacifique. Le Cap Enniberg se dresse à 754 m au-dessus de l'Atlantique tandis que la falaise de Preikestolen n'atteint 'que' 604 mètres de hauteur."
+    },
+    {
+        "question":"Lequel de ces pays était appelé Cipango par les européens au moment de sa découverte",
+        "propositionune":"Le Japon",
+        "propositiondeux":"La Chine",
+        "propositiontrois":"La Colombie",
+        "propositionquatre":"Le Costa-Rica",
+        "reponse":"Le Japon",
+        "petiteinfo":""
+    },
+    {
+        "question":"Comment s'appelle le canal qui s'épare la Grèce continetale du péloponnèse",
+        "propositionune":"Le canal de Sparte",
+        "propositiondeux":"Le canal du Midi",
+        "propositiontrois":"Le canal de Corinthe",
+        "propositionquatre":"Le canal du péloponnèse",
+        "reponse":"Le canal de Corinthe",
+        "petiteinfo":" Le canal de Corinthe fait du Péloponnèse une île, puisqu'il perce de part en part l'isthme reliant cette péninsule au reste du territoire grec."
+    },
+    {
+        "question":"En quelle année ont été achevés les travaux du Canal du Midi ?",
+        "propositionune":"1681",
+        "propositiondeux":"1781",
+        "propositiontrois":"1881",
+        "propositionquatre":"1981",
+        "reponse":"1681",
+        "petiteinfo":"C'est Louis XIV qui autorise le début des travaux par un édit royal  en octobre 1666 et c'est Jean-Baptiste Colbert qui supervise les travaux."
+    },
+    {
+        "question":"Quel géographe célèbre a écrit 'Histoire d'un ruisseau' ?",
+        "propositionune":"Hérodote",
+        "propositiondeux":"Konrad Peutinger",
+        "propositiontrois":"Élisée Reclus",
+        "propositionquatre":"Paul Vidal de la Blache",
+        "reponse":"Élisée Reclus",
+        "petiteinfo":""
+    },
+    {
+        "question":"Quel géographe célèbre à écrit 'La géographie ça sert d'abord à faire la guerre ?'",
+        "propositionune":"Yves Lacoste",
+        "propositiondeux":"Élisée Reclus",
+        "propositiontrois":"David Harvey",
+        "propositionquatre":"Michel Bussi",
+        "reponse":"Yves Lacoste",
+        "petiteinfo":""
+    },
+    {
+        "question":"Lequel de ces géographe célèbre a donné son nom à un courant marin ?",
+        "propositionune":"Carl Ritter",
+        "propositiondeux":"Pierre Vidal de la Blache",
+        "propositiontrois":"Alexander von humboldt",
+        "propositionquatre":"Joseph exquis du Raz Blanchard",
+        "reponse":"Alexander von humboldt",
+        "petiteinfo":"Celui-ci à donné son nom à un courant froid qui longe les côtes du Chili et du Pérou et qui est connu pour être riches en plancton et en poissons. Si le Raz Blanchard existe bien, Joseph exquis du Raz Blanchard lui n'existe pas, il n'a donc pas donné son nom à ce courant."
+    },
+    {
+        "question":"En quelle année la Grèce a-t-elle obtenue son indépendance ?",
+        "propositionune":"1776",
+        "propositiondeux":"1821",
+        "propositiontrois":"1830",
+        "propositionquatre":"1901",
+        "reponse":"1821",
+        "petiteinfo":"La Grèce a obtenu son indépendance de l'empire Ottoman en 1821. L'année 1776 correspond à l'année pendant laquelle les États-Unis ont obtenu leur indépendance, 1830 à l'indépendance de la Belgique et 1901 à celle de l'Australie. "
+    },
+    {
+        "question":"Quel pays est le premier producteur de pétrole ?",
+        "propositionune":"L'Arabie Saoudite",
+        "propositiondeux":"L'Algiérie",
+        "propositiontrois":"L'Irak",
+        "propositionquatre":"Les États-Unis d'Amérique",
+        "reponse":"Les États-Unis d'Amérique",
+        "petiteinfo":"Selon l'Agence d'Information sur l'Énergie des États-Unis pour l'année 2021, le pays de l'oncle Sam a produit 11 184 870 de barils par jour, devant la Russie (10 111 830), l'Arabie Saoudite (9 313 145) et le Canada (4 459 455)"
+    },
+    {
+        "question":"De quel(s) pays les Philippines ont-elles obtenu leur indépendance ?",
+        "propositionune":"du Portugal",
+        "propositiondeux":"Des États-Unis",
+        "propositiontrois":"de l'Espagne",
+        "propositionquatre":"de l'Espagne et des États-Unis",
+        "reponse":"de l'Espagne et des États-Unis",
+        "petiteinfo":"Les Philippines ont d'abord obtenue leur indépendance en 1898 de l'Espagne avant d'être conquis et colonisé par les États-Unis en 1901"
+    },
+    {
+        "question":"Où se trouve la faille de San Andreas ?",
+        "propositionune":"En Californie",
+        "propositiondeux":"Au Texas",
+        "propositiontrois":"Au Japon",
+        "propositionquatre":"Au Nouveau Mexique",
+        "reponse":"En Californie",
+        "petiteinfo":"Cette grande faille passe notamment par San Francisco et Los Angeles"
+    },
+    {
+        "question":"Quel est le nom que les anglais donnent à la mer de la Manche ?",
+        "propositionune":"English Channel",
+        "propositiondeux":"The Normandy Sea",
+        "propositiontrois":"The Little Sea",
+        "propositionquatre":"Our Sea",
+        "reponse":"English Channel",
+        "petiteinfo":""
+    },
+    {
+        "question":"Dans quels pays ce trouve la Copper belt ( la ceinture du cuivre en Français ?",
+        "propositionune":"Aux États-Unis d'Amérique",
+        "propositiondeux":"En Russie",
+        "propositiontrois":"En Chine et Mongolie",
+        "propositionquatre":"Au Congo et en Zambie",
+        "reponse":"Au Congo et en Zambie",
+        "petiteinfo":""
+    },
+    {
+        "question":"Laquelle de ces villes produit le plus de films ?",
+        "propositionune":"Hollywood",
+        "propositiondeux":"Bollywood",
+        "propositiontrois":"Nollywood",
+        "propositionquatre":"Wakaliwood",
+        "reponse":"",
+        "petiteinfo":""
+    },
+   
+    {
+        "question":"Combien d'île compte le Japon ?",
+        "propositionune":"2 125",
+        "propositiondeux":"8 125",
+        "propositiontrois":"14 125",
+        "propositionquatre":"22 125",
+        "reponse":"14 125",
+        "petiteinfo":" En 2023, l'Autorité japonaise d'information géospatiale a recomptée les îles de l'archipel et en a recensé plus de 14 000 îles, c'est près du double du nombre d'îles enregistrées  enregistré lors du dernier comptage en 1987."
+    },
+    {
+        "question":"Quels animaux pouvons nous voir sur le drapeau du Mexique ?",
+        "propositionune":"Un aigle et un serpent",
+        "propositiondeux":"Un cheval et un aigle",
+        "propositiontrois":"Un serpent et un vautour",
+        "propositionquatre":"Un vautour et un cheval",
+        "reponse":"Un aigle et un serpent",
+        "petiteinfo":""
+    },
+    {
+        "question":"Quelle île était appelé l'île Bourbon ?",
+        "propositionune":"Madagascar",
+        "propositiondeux":"Cuba",
+        "propositiontrois":"La Réunion",
+        "propositionquatre":"La Guadeloupe",
+        "reponse":"La Réunion",
+        "petiteinfo":"Nommé île Bourbon, en hommage à la famille royale en 1642, l'île a pris son nom actuel en 1794, en référence à la « réunion des Etats Généraux »"
+    },
+    {
+        "question":"Quelle est la spécificité du drapeau de l'Alaska ?",
+        "propositionune":"Une explosion nucléaire y est représentée",
+        "propositiondeux":"Il a été déssiné par un enfant",
+        "propositiontrois":"Le visage de l'écrivain Jack London y est représenté",
+        "propositionquatre":"L'Alaska est le seul état des États-Unis d'Amérique a ne pas avoir de drapeau",
+        "reponse":"Il a été déssiné par un enfant",
+        "petiteinfo":"Il a été adopté en mai 1927 à la suite d'un concours remporté par Benny Benson, un enfant de 13 ans."
+    },
+    {
+        "question":"Quel pays possède le plus vieux drapeau au monde ?",
+        "propositionune":"La Croatie",
+        "propositiondeux":"Le Danemark",
+        "propositiontrois":"La France",
+        "propositionquatre":"La Hongrie",
+        "reponse":"Le Danemark",
+        "petiteinfo":"Ce drapeau a été utilisé pour la première fois en 1625 et son dessin a été créé en 1219."
+    },
+    {
+        "question":"Que signifie septentrional ?",
+        "propositionune":"situé au nord",
+        "propositiondeux":"situé à l'est",
+        "propositiontrois":"situé à l'ouest",
+        "propositionquatre":"situé au sud",
+        "reponse":"situé au nord",
+        "petiteinfo":""
+    },
+    {
+        "question":"Que signifie austral ?",
+        "propositionune":"situé au nord",
+        "propositiondeux":"situé à l'est",
+        "propositiontrois":"situé à l'ouest",
+        "propositionquatre":"situé au sud",
+        "reponse":"situé au sud",
+        "petiteinfo":""
+    },
+    {
+        "question":"Lequel de ces pays est une monarchie ?",
+        "propositionune":"Les Pays-Bas",
+        "propositiondeux":"La Corée du Sud",
+        "propositiontrois":"La Corée du Nord",
+        "propositionquatre":"L'irlande",
+        "reponse":"Les Pays-Bas",
+        "petiteinfo":"C'est Willem-Alexander qui règne sur le pays."
+    },
+    {
+        "question":"Lequel de ces pays dépense en proportion de son PIB le plus pour son budget militaire (chiffre de 2021, de la Banque Mondiale)",
+        "propositionune":"Les États-Unis",
+        "propositiondeux":" La France",
+        "propositiontrois":"L'Algérie",
+        "propositionquatre":"La Colombie",
+        "reponse":"L'Algérie",
+        "petiteinfo":"Les États-Unis (3,48%), la France (1,94%), L'Algérie (5,59%), La Colombie (3,40%)"
+    },
+    {
+        "question":"Quel pays dépense en proportion de son PIB le plus pour son budget militaire ?",
+        "propositionune":"Oman",
+        "propositiondeux":"Le Koweït",
+        "propositiontrois":"L'Arabie Saoudite",
+        "propositionquatre":"L'agérie",
+        "reponse":"Oman",
+        "petiteinfo":"Oman (7,34%), Le Koweït(6,69%), L'arabie Saoudite (6,59%), L'agérie (5,59 %) "
+    },
+    {
+        "question":"Quelle ville était Constantinople ?",
+        "propositionune":"Ankara",
+        "propositiondeux":"Alexandrie",
+        "propositiontrois":"Istanbul",
+        "propositionquatre":"Jerusalem",
+        "reponse":"Istanbul",
+        "petiteinfo":""
+    },
+    {
+        "question":"Quel est le plus grand désert monde (à l'exclusion des déserts polaires Antarctique et Arctique ?",
+        "propositionune":"Le Désert d'Arabie",
+        "propositiondeux":"Le Désert du Kalahari",
+        "propositiontrois":"Le Désert de Gobi",
+        "propositionquatre":"Le Sahara",
+        "reponse":"Le Sahara",
+        "petiteinfo":"Avec une superficie de 9 065 000 km², Le Sahara dépasse Le Désert d'Arabie (2 331 000 km²), Le désert de Gobi (1 300 000 km²) et celui du Kalahari (900 000 km²)."
+    },
+    {
+        "question":"En quelle année le premier cable télégraphique transatlantique à-t-il était installé ?",
+        "propositionune":"1808",
+        "propositiondeux":"1858",
+        "propositiontrois":"1908",
+        "propositionquatre":"1958",
+        "reponse":"1858",
+        "petiteinfo":"Le premier câble transatlantique a été posé en 1858 entre Valentia (Irlande) et Trinity Bay (Terre-Neuve)."
+    },
+    {
+        "question":"Combien de pays ont le mot guinée dans leur nom?",
+        "propositionune":"1",
+        "propositiondeux":"2",
+        "propositiontrois":"3",
+        "propositionquatre":"4",
+        "reponse":"3",
+        "petiteinfo":"La Guinée, souvent appelée la Guinée Conakry, la Guinée-Bissau et la Guinée équatoriale"
+    },
+    {
+        "question":"Quelle est la superficie de l'Amazonie ?",
+        "propositionune":"1,5 millions de km²",
+        "propositiondeux":"5,5 millions de km²",
+        "propositiontrois":"10,5 millions de km²",
+        "propositionquatre":"55,5 millions de km²",
+        "reponse":"5,5 millions de km²",
+        "petiteinfo":"5,5 millions de km², c'est l'équivalent de la moitié de la superficie totale de l'Europe. Il est noté que le bassin amazonien à une superficie de 7,4 millions de km²."
+    },
+    {
+        "question":"Quelle ville est considérée comme la capitale des Mormonts ?",
+        "propositionune":"Nashville",
+        "propositiondeux":"Salt Lake City",
+        "propositiontrois":"Portland",
+        "propositionquatre":"Las Vegas",
+        "reponse":"Salt Lake City",
+        "petiteinfo":"La ville qui a été fondée par des mormont au milieu du XIXème siècle et accueil en son centre le plus important temple mormont du monde."
+    },
+    {
+        "question":"Quelle ville est surnomée le Paris de l'Amérique du Sud ?",
+        "propositionune":"San Carlos de Bariloche",
+        "propositiondeux":"Rio De Janeiro",
+        "propositiontrois":"Buenos Aires",
+        "propositionquatre":"Brasilia",
+        "reponse":"Buenos Aires",
+        "petiteinfo":"Une partie du centre-ville de Buenos Aires a été construite selon les préceptes haussmanniens."
+    },
+    {
+        "question":"Qu'elle pourcentage des terres immergées occupe la Toundra ? ",
+        "propositionune":" moins de 5%",
+        "propositiondeux":"entre 5% et 10%",
+        "propositiontrois":"entre 10 et 15%",
+        "propositionquatre":"Plus de 15%",
+        "reponse":"entre 5% et 10%",
+        "petiteinfo":"Selon WWF, la toundra occuppe 11 700 000 km², soit 8% des terres immergées."
+    },
+    {
+        "question":"Quelle est la circonférence de la terre au niveau de l'équateur ?",
+        "propositionune":"40 075 km",
+        "propositiondeux":"80 075 km",
+        "propositiontrois":"120 075 km",
+        "propositionquatre":"160 075 km",
+        "reponse":"40 075 km",
+        "petiteinfo":""
+    },
+    {
+        "question":"Quel est le nom du dernier empreur de Chine ?",
+        "propositionune":"Yìzhǔ",
+        "propositiondeux":"Zǎichún",
+        "propositiontrois":"Zǎitián",
+        "propositionquatre":"Pǔyí",
+        "reponse":"Pǔyí",
+        "petiteinfo":""
+    },
+    {
+        "question":"Quel est le nom du dernier empreur d'Éthiopie ?",
+        "propositionune":"Haïlé Sélassié Ier",
+        "propositiondeux":" ras Makonnen",
+        "propositiontrois":"l'impératrice Zewditou",
+        "propositionquatre":"Mengistu Haile Maryam",
+        "reponse":"Haïlé Sélassié Ier",
+        "petiteinfo":""
+    },
+    {
+        "question":"Qui était l'empreur du Japon pendant la Seconde Guerre Mondiale ?",
+        "propositionune":"Mutsuhito",
+        "propositiondeux":"Hirohito",
+        "propositiontrois":"Akihito",
+        "propositionquatre":"Naruhito",
+        "reponse":"Hirohito",
+        "petiteinfo":""
+    },
+    {
+        "question":"Quel urbaniste a mis en place le plan d'extansion de Barcelone au XIXème siècle ?",
+        "propositionune":"Hyppodamos de Millet",
+        "propositiondeux":"Eugène Haussman",
+        "propositiontrois":"Idelfonso Cerdà",
+        "propositionquatre":"Camillo Sitte",
+        "reponse":"Idelfonso Cerdà",
+        "petiteinfo":""
+    },
+    {
+        "question":"Quelle ville est associé à l'essor des gratte-ciel ?",
+        "propositionune":"Los Angeles",
+        "propositiondeux":"New-York",
+        "propositiontrois":"Chicago",
+        "propositionquatre":"Berlin",
+        "reponse":"Chicago",
+        "petiteinfo":"Dévastée par un incendie en 1871, la ville de Chicago, alors composée d'édifices en bois, est reconstruite en acier, et pour gagner de la place on construit en hauteur. Le Home Insurance Building (1884-85, 42 m de hauteur) de l’architecte William Le Baron Jenney est considéré comme le premier gratte-ciel, car il constitue le premier édifice dont la structure est entièrement faite d’acier. "
+    },
+    {
+        "question":"De quel courrant architectural et urbanistique Kisho Kurokawa était-il le (chef) ?",
+        "propositionune":"Au courant métaboliste",
+        "propositiondeux":"Au courant de l'architecture high-tech",
+        "propositiontrois":"Au courant déconstructiviste",
+        "propositionquatre":"Au Bauhaus",
+        "reponse":"Au courant métaboliste",
+        "petiteinfo":"Pour en savoir plus vous pouvez lire l'article consacré à la ville d'Astana dans lequel on y parle de Kisho Kurokawa."
+    },
+    {
+        "question":"En quelle année a été publiée la Charte d'Athène ?",
+        "propositionune":"1913",
+        "propositiondeux":"1923",
+        "propositiontrois":"1933",
+        "propositionquatre":"1943",
+        "reponse":"1933",
+        "petiteinfo":"La charte d'Athènes a a été publié suite u IVe Congrès international d'architecture moderne (CIAM), tenu lors d'un voyage maritime entre Marseille et Athènes en 1933 sous l'égide de Le Corbusier. "
+    },
+    {
+        "question":"Quel pays est surnomé le pays des mille lacs ?",
+        "propositionune":"La Finlande",
+        "propositiondeux":"Le Kosovo",
+        "propositiontrois":"La Russie",
+        "propositionquatre":"Le Costa-Rica",
+        "reponse":"La Finlande",
+        "petiteinfo":""
+    },
+    {
+        "question":"Quel est et où se situe le plus grand stade du monde ?",
+        "propositionune":"Stade Maracana, Rio de Janeiro",
+        "propositiondeux":"Stade du Premier-Mai, Pyongyang",
+        "propositiontrois":"Le Camp Nou, Barcelone",
+        "propositionquatre":"Le Michigan Stadium, Ann Arbor (États-Unis)",
+        "reponse":"Stade du Premier-Mai, Pyongyang",
+        "petiteinfo":"Le Stade du Premier-Mai possède une capacité 150 000 spectateurs. Il peut donc accueillir en même temps tout les habitants d'une ville telle que Nimes. "
+    },
+    {
+        "question":"Quelle est la capitale de l'État de la Louisianne ?",
+        "propositionune":"La Nouvelle Orléan",
+        "propositiondeux":"Baton rouge",
+        "propositiontrois":"Albuquerque",
+        "propositionquatre":"Lafayette",
+        "reponse":"Baton rouge",
+        "petiteinfo":"La Nouvelle Orléans compte plus d'habitant que Baton-Rouge, mais c'est bien Baton-Rouge qui est la capitale de la ville."
+    },
+    {
+        "question":"Dans quelle catégorie la théoricienne de l'urbanisme Françoise Choey place t-elle Charles Fourier ?",
+        "propositionune":"Pré urbanisme progressiste",
+        "propositiondeux":"Pré-urbanisme culturaliste",
+        "propositiontrois":"urbanisme progressiste",
+        "propositionquatre":"urbanisme culturaliste",
+        "reponse":"Pré urbanisme progressiste",
+        "petiteinfo":""
+    },
+    {
+        "question":"Comment sont surnommé les latitudes situées entre les 40e et 50e parallèles dans l'hémisphère Sud",
+        "propositionune":"Les Quarantièmes rugissants",
+        "propositiondeux":"Les Quarantièmes du feu",
+        "propositiontrois":"Les Quarantièmes tueurs",
+        "propositionquatre":"Les Cinquantièmes hurlants",
+        "reponse":"Les Quarantièmes rugissants",
+        "petiteinfo":"Les quarantièmes rugissants est le nom qui a été donné par les marins aux latitudes situées entre les 40e et 50e parallèles dans l'hémisphère Sud tandis que les lattitudes entre les 50e et 60e parallèles sont surnomés les Cinquantièmes hurlants. Un dicton connu chez les marins dit : 'Sous 40 degrés, il n’y a plus de lois, mais sous 50 degrés, il n’y a plus de Dieu.'"
     }
 ]
