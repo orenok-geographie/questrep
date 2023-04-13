@@ -352,7 +352,7 @@
         "propositiontrois":"A la frontière entre le Népal et le Bouthan",
         "propositionquatre":"A la frontière entre l'Inde et le Bouthan",
         "reponse":"A la frontière entre le Népal et la Chine",
-        "petiteinfo":""
+        "petiteinfo":"/"
     },
     {
         "question":"Quelle est la ville la plus peuplée d'Amérique du Sud ?",
@@ -361,7 +361,7 @@
         "propositiontrois":"Rio de Janeiro",
         "propositionquatre":"Sao Paulo",
         "reponse":"Sao Paulo",
-        "petiteinfo":"L'agglomération de Sao Paulo compte 21 millions d'habitants, celle de Bueos Aires 15 millions, celle de Rio de Janeiro 14 millions et celle de Bogota 10, 5 millions. Ces quatre villes sont les plus peuplées de l'Amérique du Sud."
+        "petiteinfo":"L'agglomération de Sao Paulo compte 21 millions d'habitants, celle de Buenos Aires 15 millions, celle de Rio de Janeiro 14 millions et celle de Bogota 10, 5 millions. Ces quatre villes sont les plus peuplées de l'Amérique du Sud."
     },
     {
         "question":"Dans quel océan se trouve l'île de Pâques ?",
@@ -418,16 +418,6 @@
         "reponse":"",
         "petiteinfo":"Selon Organisation des Nations unies pour l’alimentation et l’agriculture (FAO), la superficie forestière occupe 31,4 % de la superficie totale du pays."
     },
-
-    {
-        "question":"Lequel de ces pays américains possède le plus d'hippopotame ?",
-        "propositionune":"",
-        "propositiondeux":"",
-        "propositiontrois":"",
-        "propositionquatre":"",
-        "reponse":"",
-        "petiteinfo":""
-    },
     {
         "question":"Quel pays possède la plus grande superficie de désert ?",
         "propositionune":"",
@@ -435,7 +425,7 @@
         "propositiontrois":"",
         "propositionquatre":"",
         "reponse":"",
-        "petiteinfo":""
+        "petiteinfo":"/"
     },
     {
         "question":"Quelle est la particularité de l'hymne national espagnol ?",
@@ -489,7 +479,7 @@
         "propositiontrois":"Élisée Reclus",
         "propositionquatre":"Paul Vidal de la Blache",
         "reponse":"Élisée Reclus",
-        "petiteinfo":""
+        "petiteinfo":"/"
     },
     {
         "question":"Quel géographe célèbre à écrit 'La géographie ça sert d'abord à faire la guerre ?'",
@@ -498,7 +488,7 @@
         "propositiontrois":"David Harvey",
         "propositionquatre":"Michel Bussi",
         "reponse":"Yves Lacoste",
-        "petiteinfo":""
+        "petiteinfo":"/"
     },
     {
         "question":"Lequel de ces géographe célèbre a donné son nom à un courant marin ?",
@@ -552,7 +542,7 @@
         "propositiontrois":"The Little Sea",
         "propositionquatre":"Our Sea",
         "reponse":"English Channel",
-        "petiteinfo":""
+        "petiteinfo":"/"
     },
     {
         "question":"Dans quels pays ce trouve la Copper belt ( la ceinture du cuivre en Français ?",
@@ -570,7 +560,7 @@
         "propositiontrois":"Nollywood",
         "propositionquatre":"Wakaliwood",
         "reponse":"",
-        "petiteinfo":""
+        "petiteinfo":"/"
     },
    
     {
@@ -625,7 +615,7 @@
         "propositiontrois":"situé à l'ouest",
         "propositionquatre":"situé au sud",
         "reponse":"situé au nord",
-        "petiteinfo":""
+        "petiteinfo":"/"
     },
     {
         "question":"Que signifie austral ?",
@@ -634,7 +624,7 @@
         "propositiontrois":"situé à l'ouest",
         "propositionquatre":"situé au sud",
         "reponse":"situé au sud",
-        "petiteinfo":""
+        "petiteinfo":"/"
     },
     {
         "question":"Lequel de ces pays est une monarchie ?",
@@ -670,7 +660,7 @@
         "propositiontrois":"Istanbul",
         "propositionquatre":"Jerusalem",
         "reponse":"Istanbul",
-        "petiteinfo":""
+        "petiteinfo":"/"
     },
     {
         "question":"Quel est le plus grand désert monde (à l'exclusion des déserts polaires Antarctique et Arctique ?",
@@ -742,7 +732,7 @@
         "propositiontrois":"120 075 km",
         "propositionquatre":"160 075 km",
         "reponse":"40 075 km",
-        "petiteinfo":""
+        "petiteinfo":"/"
     },
     {
         "question":"Quel est le nom du dernier empreur de Chine ?",
@@ -751,7 +741,7 @@
         "propositiontrois":"Zǎitián",
         "propositionquatre":"Pǔyí",
         "reponse":"Pǔyí",
-        "petiteinfo":""
+        "petiteinfo":"/"
     },
     {
         "question":"Quel est le nom du dernier empreur d'Éthiopie ?",
@@ -760,7 +750,7 @@
         "propositiontrois":"l'impératrice Zewditou",
         "propositionquatre":"Mengistu Haile Maryam",
         "reponse":"Haïlé Sélassié Ier",
-        "petiteinfo":""
+        "petiteinfo":"/"
     },
     {
         "question":"Qui était l'empreur du Japon pendant la Seconde Guerre Mondiale ?",
@@ -769,7 +759,7 @@
         "propositiontrois":"Akihito",
         "propositionquatre":"Naruhito",
         "reponse":"Hirohito",
-        "petiteinfo":""
+        "petiteinfo":"/"
     },
     {
         "question":"Quel urbaniste a mis en place le plan d'extansion de Barcelone au XIXème siècle ?",
@@ -778,7 +768,7 @@
         "propositiontrois":"Idelfonso Cerdà",
         "propositionquatre":"Camillo Sitte",
         "reponse":"Idelfonso Cerdà",
-        "petiteinfo":""
+        "petiteinfo":"/"
     },
     {
         "question":"Quelle ville est associé à l'essor des gratte-ciel ?",
@@ -814,7 +804,7 @@
         "propositiontrois":"La Russie",
         "propositionquatre":"Le Costa-Rica",
         "reponse":"La Finlande",
-        "petiteinfo":""
+        "petiteinfo":"/"
     },
     {
         "question":"Quel est et où se situe le plus grand stade du monde ?",
@@ -841,7 +831,7 @@
         "propositiontrois":"urbanisme progressiste",
         "propositionquatre":"urbanisme culturaliste",
         "reponse":"Pré urbanisme progressiste",
-        "petiteinfo":""
+        "petiteinfo":"/"
     },
     {
         "question":"Comment sont surnommé les latitudes situées entre les 40e et 50e parallèles dans l'hémisphère Sud",
