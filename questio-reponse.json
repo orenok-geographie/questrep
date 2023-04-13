@@ -25,7 +25,7 @@
         "propositiontrois": "Aux Pays-Bas",
         "propositionquatre" : "A l'Allemagne",
         "reponse" : "A la France",
-        "petiteinfo" : "Contrairement à ce que son nom pourrait laisser croire, l'île d'Amsterdam appartient à la France. L'île abrite aujourd'hui une base scientifique mais aucun résident ni vit de manière permanante." 
+        "petiteinfo" : "Contrairement à ce que son nom pourrait laisser croire, l'île d'Amsterdam appartient à la France. L'île qui se situe dans la réserve naturelle nationale des Terres australes françaises et abrite aujourd'hui une base scientifique mais aucun résident ni vit de manière permanante." 
     },
     {
         "question":"Combien y a t'il d'habitants dans l'État du Wyoming  ? ",
@@ -70,7 +70,7 @@
         "propositiontrois":"Environ 5 millions",
         "propositionquatre":"Environ 10 millions",
         "reponse":"0",
-        "petiteinfo":"Avant leur découverte par les colons portugais, l'île n'était pas peuplé."
+        "petiteinfo":"Avant sa colonisation par les portugais, l'île n'était pas peuplé."
 
     },
     {
@@ -80,10 +80,10 @@
         "propositiontrois":"God's will first",
         "propositionquatre":"Actibus immensis urbs fulget massiliensis",
         "reponse":"Dieu et mon droit",
-        "petiteinfo":"Eh oui, la devise du Royaume-Uni est en français. 'Dieu et mon droit' est le cris de guerre de la monarchie britanique depuis Henry IV, elle est en français car depuis la conquête de l'Angleterre par Guillaume le Conquérant le français et la langue des élites anglaise. God Save the King est le nom de l'hymne du Royaume-Uni, 'God's will first' est la devise de Nauru et 'Actibus immensis urbs fulget massiliensis' qui signifie : 'La ville de Marseille brille par ses hauts faits' est la devise de Marseille.  "
+        "petiteinfo":"Eh oui ! la devise du Royaume-Uni est en français. 'Dieu et mon droit' était le cris de guerre de la monarchie britanique depuis Henry IV, elle est en français car depuis la conquête de l'Angleterre par Guillaume le Conquérant le français et la langue des élites anglaise. God Save the King est le nom de l'hymne du Royaume-Uni, 'God's will first' est la devise de Nauru et 'Actibus immensis urbs fulget massiliensis' qui signifie : 'La ville de Marseille brille par ses hauts faits' est la devise de Marseille.  "
     },
     {
-        "question":"Lequel de ces pays compte le plus d'athés ?",
+        "question":"Lequel de ces pays compte en proportion de sa popuation le plus d'athés ?",
         "propositionune":"Les pays-Bas",
         "propositiondeux":"La France",
         "propositiontrois":"La Tchéquie",
@@ -274,7 +274,7 @@
         "petiteinfo":"Le PIB du Viet Nam était de 366 137,59 millions de $, celui de la Colombie de 314 464,14 millions de $, celui de l'Algérie de 163 044,44 millions de $ et celui de la Biélorussie de 68 205,38 millions de $."
     },
     {
-        "question":"A quelle attitude se situe la ville la plus haute du monde (plus de 50 000 habitants) ?",
+        "question":"Quelle est la ville la plus haute du monde (plus de 50 000 habitants) ?",
         "propositionune":"La Rinconada (Pérou)",
         "propositiondeux":"Shigatsé (Chine)",
         "propositiontrois":"La Paz (Bolivie)",
@@ -289,7 +289,7 @@
         "propositiontrois":"Dans l'Océan Atlantique",
         "propositionquatre":"Dans l'Océan Artique",
         "reponse":"Dans l'Océan Pacifique",
-        "petiteinfo":"Longue d'environ 2 550 km de long et large de 70 km, le point le plus profond connu actuellement se situe à environ 11 034 mètres en dessous du niveau de la mer."
+        "petiteinfo":"Longue d'environ 2 550 km et large de 70 km, le point le plus profond connu actuellement se situe à environ 11 034 mètres en dessous du niveau de la mer."
     },
     {
         "question":"Quelle est la chaîne de montagnes la plus longue du monde ?",
@@ -382,7 +382,7 @@
         "petiteinfo":"L'agglomération de Lagos compte 23 millions d'habitants, celle du Caire 20,5 millions, celle de Kinshasa 17 millions et celle d'Alger 8 millions. Il s'agit des quatre plus grande agglomération du continent. "
     },
     {
-        "question":"Quel est le pays qui possède la plus importante longuere de côtes ?",
+        "question":"Quel est le pays qui possède la plus importante longueure de côtes ?",
         "propositionune":"Canada",
         "propositiondeux":"Danemark",
         "propositiontrois":"Indonésie",
@@ -391,13 +391,13 @@
         "petiteinfo":"Avec 202 080 km de côtes le Canada arrive premier de ce classement, la Norvège deuxième (104 600 km), l'Indonésie troisième (54 716 km) et le Danemark quatrième (52 518 km)"
     },
     {
-        "question":"Quel est le pays africain qui possède la plus grande superficie de forêt tropicale ? Quelle proportion de ce pays est de la forêt ?",
-        "propositionune":"",
-        "propositiondeux":"",
-        "propositiontrois":"",
-        "propositionquatre":"",
+        "question":"Quel est le pays qui possède la plus grande superficie de forêt en proportion de son territoire ?",
+        "propositionune":"La république Démocratique du Congo",
+        "propositiondeux":"La Russie ",
+        "propositiontrois":"La Suède",
+        "propositionquatre":"Le Surinam",
         "reponse":"",
-        "petiteinfo":"https://www.ouest-france.fr/environnement/climat/carte-quel-est-le-pays-le-plus-boise-au-monde-6273472"
+        "petiteinfo":"Selon Organisation des Nations unies pour l’alimentation et l’agriculture (FAO), 92,7% du territoire du pays est recouvert par de la forêt, C'est 54% pour la RDC, 52,9% pour la Suède et 47,7% pour la Russie "
     },
 
     {
@@ -408,6 +408,15 @@
         "propositionquatre":"",
         "reponse":"",
         "petiteinfo":"https://www.ouest-france.fr/environnement/climat/carte-quel-est-le-pays-le-plus-boise-au-monde-6273472"
+    },
+    {
+        "question":"Quel est proportion du sol français est occupé par de la fôret ?",
+        "propositionune":"Entre 0 et 10%",
+        "propositiondeux":"En 10,1% et 20%",
+        "propositiontrois":"Entre 20,1% et 30%",
+        "propositionquatre":"Entre 30,1% et 40%",
+        "reponse":"",
+        "petiteinfo":"Selon Organisation des Nations unies pour l’alimentation et l’agriculture (FAO), la superficie forestière occupe 31,4 % de la superficie totale du pays."
     },
 
     {
@@ -420,7 +429,7 @@
         "petiteinfo":""
     },
     {
-        "question":"Quel  pays possède la plus grande superficie de désert ?",
+        "question":"Quel pays possède la plus grande superficie de désert ?",
         "propositionune":"",
         "propositiondeux":"",
         "propositiontrois":"",
@@ -429,13 +438,13 @@
         "petiteinfo":""
     },
     {
-        "question":"Quelle est la particularité de l'hymne espagnol ?",
+        "question":"Quelle est la particularité de l'hymne national espagnol ?",
         "propositionune":"Sa version entière dure 18 minutes",
         "propositiondeux":"Il n'y a pas de paroles",
         "propositiontrois":"Il est le seul hymne qui se joue uniquement à la guitar.",
         "propositionquatre":"Il ne dure que 45 secondes",
         "reponse":"Il n'y a pas de paroles",
-        "petiteinfo":""
+        "petiteinfo":"La Marcha Real est l'hymne national et royal de l'Espagne. C'est l'un des plus vieux hymnes nationaux officiels encore utilisés au monde (avec l'hymne japonais). Il n'a pas de paroles officielles, en dépit de plusieurs tentatives de lui en fournir. (source : Wikipédia)"
     },
     {
         "question":"Quelle est la plus haute falaise du monde ?",
@@ -453,7 +462,7 @@
         "propositiontrois":"La Colombie",
         "propositionquatre":"Le Costa-Rica",
         "reponse":"Le Japon",
-        "petiteinfo":""
+        "petiteinfo":"Cipango est le nom chinois du Japon rapporté par Marco Polo dans le Devisement du monde, il a ensuite été adopté par les européens pour appelé le Japon."
     },
     {
         "question":"Comment s'appelle le canal qui s'épare la Grèce continetale du péloponnèse",
@@ -507,10 +516,10 @@
         "propositiontrois":"1830",
         "propositionquatre":"1901",
         "reponse":"1821",
-        "petiteinfo":"La Grèce a obtenu son indépendance de l'empire Ottoman en 1821. L'année 1776 correspond à l'année pendant laquelle les États-Unis ont obtenu leur indépendance, 1830 à l'indépendance de la Belgique et 1901 à celle de l'Australie. "
+        "petiteinfo":"La Grèce a obtenu son indépendance de l'empire Ottoman en 1821. L'année 1776 correspond à l'année pendant laquelle les États-Unis ont obtenu leur indépendance, 1830 à celle de la Belgique et 1901 à celle de l'Australie. "
     },
     {
-        "question":"Quel pays est le premier producteur de pétrole ?",
+        "question":"Quel pays est le premier producteur de pétrole en 2021 ?",
         "propositionune":"L'Arabie Saoudite",
         "propositiondeux":"L'Algiérie",
         "propositiontrois":"L'Irak",
@@ -525,7 +534,7 @@
         "propositiontrois":"de l'Espagne",
         "propositionquatre":"de l'Espagne et des États-Unis",
         "reponse":"de l'Espagne et des États-Unis",
-        "petiteinfo":"Les Philippines ont d'abord obtenue leur indépendance en 1898 de l'Espagne avant d'être conquis et colonisé par les États-Unis en 1901"
+        "petiteinfo":"Les Philippines ont d'abord obtenu leur indépendance en 1898 de l'Espagne avant d'être conquis et colonisé par les États-Unis de 1901 à 1946. "
     },
     {
         "question":"Où se trouve la faille de San Andreas ?",
@@ -552,7 +561,7 @@
         "propositiontrois":"En Chine et Mongolie",
         "propositionquatre":"Au Congo et en Zambie",
         "reponse":"Au Congo et en Zambie",
-        "petiteinfo":""
+        "petiteinfo":"Cette ceinture grande d'environ 30 000 km² est l'une des principales zones minières mondiles."
     },
     {
         "question":"Laquelle de ces villes produit le plus de films ?",
@@ -580,7 +589,7 @@
         "propositiontrois":"Un serpent et un vautour",
         "propositionquatre":"Un vautour et un cheval",
         "reponse":"Un aigle et un serpent",
-        "petiteinfo":""
+        "petiteinfo":"Selon le mythe un chef religieux aztèque avait dit que son peuple devrait s'installer là où il verrait un serpent sur un cactus manger un serpent, et cela a été vu à l'endroit où se situe l'actuelle ville de Mexico. C'est cette légenge que rappelle le blason au centre du drapeau mexicain. "
     },
     {
         "question":"Quelle île était appelé l'île Bourbon ?",
@@ -697,7 +706,7 @@
         "propositiontrois":"10,5 millions de km²",
         "propositionquatre":"55,5 millions de km²",
         "reponse":"5,5 millions de km²",
-        "petiteinfo":"5,5 millions de km², c'est l'équivalent de la moitié de la superficie totale de l'Europe. Il est noté que le bassin amazonien à une superficie de 7,4 millions de km²."
+        "petiteinfo":"5,5 millions de km², c'est l'équivalent de la moitié de la superficie totale de l'Europe. Il est à noté que le bassin amazonien à une superficie de 7,4 millions de km²."
     },
     {
         "question":"Quelle ville est considérée comme la capitale des Mormonts ?",
@@ -818,9 +827,9 @@
     },
     {
         "question":"Quelle est la capitale de l'État de la Louisianne ?",
-        "propositionune":"La Nouvelle Orléan",
+        "propositionune":"Albuquerque",
         "propositiondeux":"Baton rouge",
-        "propositiontrois":"Albuquerque",
+        "propositiontrois":"La Nouvelle Orléan",
         "propositionquatre":"Lafayette",
         "reponse":"Baton rouge",
         "petiteinfo":"La Nouvelle Orléans compte plus d'habitant que Baton-Rouge, mais c'est bien Baton-Rouge qui est la capitale de la ville."
