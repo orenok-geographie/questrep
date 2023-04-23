@@ -1,4 +1,5 @@
 [
+    
     {
         "question":"Lequel de ces pays a obtenu son indépendance en dernier ?",
         "propositionune": "L'Irelande",
@@ -6,7 +7,18 @@
         "propositiontrois": "Le Mexique",
         "propositionquatre" : "La Colombie",
         "reponse" : "L'Irelande",
-        "petiteinfo" : "L'irlande a obtenu son indépendance en 1937, le libéria en 1847, Le Mexique en 1821 et la Colombie en 1819. '\\n'Ci-dessus il s'agit du tableau Naissance de la République irlandaise, de Walter Paget.",
-         "image":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Birth_of_the_Irish_Republic.jpg",
+        "petiteinfo" : "L'irlande a obtenu son indépendance en 1937, le libéria en 1847, Le Mexique en 1821 et la Colombie en 1819.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Birth_of_the_Irish_Republic.jpg",
         "legende":"Naissance de la République irlandaise, de Walter Paget"
+
+    },
+    {
+        "question":"Combien de pays y-a-t'il sur l'île de Bornéo ? ",
+        "propositionune": "1",
+        "propositiondeux": "2",
+        "propositiontrois": "3",
+        "propositionquatre" : "4",
+        "reponse" : "3",
+        "petiteinfo" : "L'île est partagée entre 3 pays : la Malaisie, le Sultanat de Brunei et l'Indonésie.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Borneo2_map_english_names.svg"
     }]
