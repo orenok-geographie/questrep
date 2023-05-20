@@ -229,7 +229,7 @@
         "propositiontrois":"Kingston",
         "propositionquatre":"Mogadiscio",
         "reponse":"Monrovia",
-        "petiteinfo":"Kingstown est la capitale de Saint-Vincent-et-les-Grenadines, Kingston et la capitale de la Jamaïque et Mogadiscio est la capitale Somalie. ",
+        "petiteinfo":"La capitale a été nommée ainsi en en l'honneur du président des États-Unis James Monroe. Kingstown est la capitale de Saint-Vincent-et-les-Grenadines, Kingston et la capitale de la Jamaïque et Mogadiscio est la capitale Somalie. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/2/25/Liberia%2C_Africa_-_panoramio_%28256%29.jpg",
         "legende":"Monrovia"
     },
@@ -296,7 +296,7 @@
         "propositionquatre":"Les États-Unis d'Amérique",
         "reponse":"Le Danemark",
         "petiteinfo":"Le Groenland fait partie du royaume du Danemark, c'est donc le Danemark qui est le plus proche du pôle Nord.",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/1/10/Kingdom_of_Denmark_%28orthographic_projection%29.svg",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kingdom_of_Denmark_%28orthographic_projection%29.svg/480px-Kingdom_of_Denmark_%28orthographic_projection%29.svg.png",
         "legende":"Le Danemark"
     },
     {
@@ -808,7 +808,7 @@
         "legende":"diagonal Norte à Buenos Aires"
     },
     {
-        "question":"Qu'elle pourcentage des terres immergées occupe la Toundra ? ",
+        "question":"Quelcité pourcentage des terres immergées occupe la Toundra ? ",
         "propositionune":" moins de 5%",
         "propositiondeux":"entre 5% et 10%",
         "propositiontrois":"entre 10 et 15%",
@@ -892,7 +892,7 @@
         "propositionquatre":"Le Michigan Stadium, Ann Arbor (États-Unis)",
         "reponse":"Stade du Premier-Mai, Pyongyang",
         "petiteinfo":"Le Stade du Premier-Mai possède une capacité 150 000 spectateurs. Il peut donc accueillir en même temps tous les habitants d'une ville telle que Nîmes. ",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/5/5b/North_Korea-Rungrado_May_Day_Stadium-01.jpg",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/North_Korea-Rungrado_May_Day_Stadium-01.jpg/640px-North_Korea-Rungrado_May_Day_Stadium-01.jpg",
         "legende":"Stade du Premier-Mai, Pyongyang "
     },
     {
@@ -969,7 +969,7 @@
         "propositionquatre":"Le pays des hommes intègres",
         "reponse":" Le pays des Slaves du Sud ",
         "petiteinfo":" Ce nom vient Du serbo-croate Jugoslavija , composé de jug (‘sud’) et de slavija , littéralement ‘pays des Slaves du sud’. ",
-        "image":" https://upload.wikimedia.org/wikipedia/commons/7/7a/Slaven.jpg ",
+        "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Slaven.jpg/561px-Slaven.jpg",
         "legende":" Carte de l’Europe du sud 1869 "
     },
     {
@@ -989,7 +989,7 @@
         "propositiondeux":"La Californie",
         "propositiontrois":"Le Montana",
         "propositionquatre":"Le Texas",
-        "reponse":"L'Alasca",
+        "reponse":"L'Alaska",
         "petiteinfo":"L'Alaska a une superficie d'environ 1,7 million de km2, le Texas de 700 000 km2, la Californie de 423 000 km2 et le Montana de 380 000 km2",
         "image":"https://upload.wikimedia.org/wikipedia/commons/9/96/State_Seal_of_Alaska.svg",
         "legende":"Sceau de l'Alaska"
@@ -1000,7 +1000,7 @@
         "propositiondeux":"Le Soudan du Sud",
         "propositiontrois":"La Tchéquie",
         "propositionquatre":"L’Ukraine",
-        "reponse":" Le Soudan du Sud ",
+        "reponse":"Le Soudan du Sud ",
         "petiteinfo":"Le Soudan du Sud a obtenu son indépendance du Soudan en 2011, Le Kosovo de la Serbie de la Serbie en 2008, l’Ukraine en 1991, et la Tchéquie et la Slovaquie se sont séparés en 1993.  ",       "image":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Salva_Kiir_Mayardit_at_the_White_House_%28cropped%29.jpg ",
         "legende":" Salva Kiir , premier président du Soudan du Sud"
     },
@@ -1021,7 +1021,7 @@
         "propositiondeux":"Etre 250 et 450 000 habitants",
         "propositiontrois":"Entre 450 et 650 000 habitants",
         "propositionquatre":"Plus de 650 000 habitants",
-        "reponse":" Plus de 650 000 habitants ",
+        "reponse":"Plus de 650 000 habitants ",
         "petiteinfo":"Selon l’INSEE, en 2016, la population de l’aire urbaine de Rouen était de 665 249 habitants.",
         "image":"https://upload.wikimedia.org/wikipedia/commons/7/71/Panorama_of_Rouen.jpg",
         "legende":"Rouen"
@@ -1043,7 +1043,7 @@
         "propositiondeux":"Port de Ningbo-Zhoushan",
         "propositiontrois":"Port de Rotterdam",
         "propositionquatre":"Port de Shanghai",
-        "reponse":" Port de Ningbo-Zhoushan ",
+        "reponse":"Port de Ningbo-Zhoushan ",
         "petiteinfo":"Le port de Rotterdam qui est le premier port européen n’est que le onzième. Sur les dix premiers ports de commerce 8 sont chinois, un australien et un singapourien.",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Beilun_Port_2020-05-02.jpg/640px-Beilun_Port_2020-05-02.jpg",
         "legende":" Port de Ningbo-Zhoushan "
@@ -1054,7 +1054,7 @@
         "propositiondeux":"Entre 500 000 et 1 million d'habitants",
         "propositiontrois":"Entre 1 et 2 millions d'habitants",
         "propositionquatre":"Plus de 2 millions d'habitants",
-        "reponse":" Plus de 2 millions d'habitants ",
+        "reponse":"Plus de 2 millions d'habitants ",
         "petiteinfo":"La population d’Hambourg est d’environ 3 173 871 habitants",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Speicherstadt_abends.jpg/640px-Speicherstadt_abends.jpg ",
         "legende":" Speicherstadt,  à Hambourg"
@@ -1065,7 +1065,7 @@
         "propositiondeux":"Entre 500 000 et 1 million d'habitants",
         "propositiontrois":"Entre 1 et 2 millions d'habitants",
         "propositionquatre":"Plus de 2 millions d'habitants",
-        "reponse":" Plus de 2 millions d'habitants ",
+        "reponse":"Plus de 2 millions d'habitants ",
         "petiteinfo":" La population de l’agglomération est d’environ 4 469 439 habitants ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Berlin_Rotes_Rathaus_2.jpg/615px-Berlin_Rotes_Rathaus_2.jpg ",
         "legende":"Hôtel de ville de Berlin"
@@ -1133,7 +1133,7 @@
         "propositiondeux":"Entre 5 et 10 million d'habitants",
         "propositiontrois":"Entre 10 et 20 millions d'habitants",
         "propositionquatre":"Plus de 20 millions d'habitants",
-        "reponse":" Plus de 20 millions d'habitants ",
+        "reponse":"Plus de 20 millions d'habitants ",
         "petiteinfo":" La population de l’agglomération est d’environ 22 589 036 habitants ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lower_Manhattan_skyline_-_June_2017.jpg/640px-Lower_Manhattan_skyline_-_June_2017.jpg",
         "legende":"New-York"
@@ -1201,7 +1201,7 @@
         "propositionquatre":"Plus de 20 millions d'habitants",
         "reponse":" Plus de 20 millions d'habitants ",
         "petiteinfo":" La population de l’agglomération est d’environ 21 893 095  habitants ",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/a/ae/Cit%C3%A9_interdite_Porte_de_l%27harmonie_supr%C3%AAme.jpg",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hall_of_Supreme_Harmony.JPG/640px-Hall_of_Supreme_Harmony.JPG",
         "legende":"La cité interdite"
     },
     {
