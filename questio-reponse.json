@@ -106,7 +106,7 @@
         "propositionquatre": "La Pologne",
         "reponse": "La Tchéquie",
         "petiteinfo": "Dans pratiquement toutes les études, la Tchéquie apparaît comme étant le pays qui compte le plus d'athées en Europe, devant la Suède et la France, et étant devancée seulement par la Chine et le Japon dans le monde. Si vous voulez savoir pourquoi il y a tant d'athés en république Tchèque, il y a un article qui répond à cette question sur le site ;).",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/0/01/Praha_1%2C_Karl%C5%AFv_most_20170810_014.jpg",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Praha_1%2C_Karl%C5%AFv_most_20170810_014.jpg/640px-Praha_1%2C_Karl%C5%AFv_most_20170810_014.jpg",
         "legende":"Prague"
     },
     {
@@ -117,7 +117,7 @@
         "propositionquatre":"Istanbul",
         "reponse":"Bamako",
         "petiteinfo":"Lorsque Alpha Oumar Konaré devient président du Mali en 1992, il lance une grande campagne de création de monuments, parmi ceux-ci le Monument aux héros de l'Armée noire, L'obélisque des Idéogrammes ou encore la Place des martyrs de Thiaroye ",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/7/77/Place_de_la_libert%C3%A9_-_Bamako.jpg",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Place_de_la_libert%C3%A9_-_Bamako.jpg/640px-Place_de_la_libert%C3%A9_-_Bamako.jpg",
         "legende":"Monument aux héros de l'armée noire"
     },
     {
@@ -172,7 +172,7 @@
         "propositionquatre":"Édimbourg",
         "reponse":"Birmingham",
         "petiteinfo":"La ville de Birmingham compte environ 1 100 000 habitants et est le coeur d'une agglomération de plus de 4 millions d'habitants. Manchester est la quatrième ville la plus importante du Royaume-Uni avec près de 600 000 habitant (3,3 millions pour son aire urbaine) tandis qu'Édimbourg en est la cinquième avec près de 500 000 habitants (près de 1 000 000 pour son aire urbaine). Ces deux villes se situent donc derrière Glasgow qui est la troisième plus grande ville du Royaume-Uni.",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/4/46/Panorama_of_Birmingham.jpg",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Birmingham_Skyline_from_the_West.jpg/640px-Birmingham_Skyline_from_the_West.jpg",
         "legende":"Birmingham"
 
     },
@@ -424,7 +424,7 @@
     {
         "question":"Dans quel pays se trouve le mont Everest, le point culminant de la Terre ?",
         "propositionune":"A la frontière entre le Népal et la Chine",
-        "propositiondeux":"A la frontière entre le Népal et l'Inde'",
+        "propositiondeux":"A la frontière entre le Népal et l'Inde",
         "propositiontrois":"A la frontière entre le Népal et le Bhoutan ",
         "propositionquatre":"A la frontière entre l'Inde et le Bhoutan ",
         "reponse":"A la frontière entre le Népal et la Chine",
@@ -452,7 +452,7 @@
         "propositionquatre":"Dans l'Océan Arctique",
         "reponse":"Dans l'Océan Pacifique",
         "petiteinfo":"L'île qui appartient au Chili est située à 3 525 km à l'ouest des côtes du pays.",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/7/78/Easternislands4.jpg",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Moai_Rano_raraku.jpg/360px-Moai_Rano_raraku.jpg",
         "legende":"Des Moaï sur l'île de Pâques"
     },
     {
@@ -474,7 +474,7 @@
         "propositionquatre":"Norvège",
         "reponse":"Canada",
         "petiteinfo":"Avec 202 080 km de côtes le Canada arrive premier de ce classement, la Norvège deuxième (104 600 km), l'Indonésie troisième (54 716 km) et le Danemark quatrième (52 518 km)",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/a/a1/L_Anse_aux_Meadows.jpg",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Authentic_Viking_recreation.jpg/640px-Authentic_Viking_recreation.jpg",
         "legende":"L'Anse aux Meadows au Canada"
     },
     {
@@ -661,7 +661,7 @@
         "propositionquatre":"La Guadeloupe",
         "reponse":"La Réunion",
         "petiteinfo":"Nommée île Bourbon, en hommage à la famille royale en 1642, l'île a pris son nom actuel en 1794, en référence à la « réunion des Etats Généraux »",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/c/c3/Reunion_21.12S_55.51E.jpg",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Reunion_21.12S_55.51E.jpg/559px-Reunion_21.12S_55.51E.jpg",
         "legende":"Image satellite de l'île de La Réunion"
     },
     {
@@ -727,7 +727,7 @@
         "propositionquatre":"L'agérie",
         "reponse":"Oman",
         "petiteinfo":"Oman (7,34%), Le Koweït(6,69%), L’Arabie Saoudite (6,59%), L'Algérie (5,59 %) ",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/b/ba/Rnov_shabab_oman_under_sails.jpg",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Rnov_shabab_oman_under_sails.jpg/640px-Rnov_shabab_oman_under_sails.jpg",
         "legende":"Le Shabab Oman, un navire école de la marine d'Oman"
     },
     {
@@ -793,7 +793,7 @@
         "propositionquatre":"Las Vegas",
         "reponse":"Salt Lake City",
         "petiteinfo":"La ville a été fondée par des Mormons au milieu du XIXème siècle et accueille en son centre le plus important temple mormon du monde.",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Temple_Square%2C_Salt_Lake_City%2C_1899_retouched.jpg",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Salt_Lake_Temple%2C_Utah_-_Sept_2004-2.jpg/435px-Salt_Lake_Temple%2C_Utah_-_Sept_2004-2.jpg",
         "legende":"Temple Square en 1899"
     },
     {
@@ -859,7 +859,7 @@
         "propositionquatre":"Camillo Sitte",
         "reponse":"Idelfonso Cerdà",
         "petiteinfo":"Il est considéré par certains comme le père de l'urbanisme moderne.",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/8/89/PlaCerda1859b.jpg",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/EixampleBCN-projecteFontsere.jpg/640px-EixampleBCN-projecteFontsere.jpg",
         "legende":"Le plan Cerdà"
     },
     {
@@ -1038,14 +1038,14 @@
         "legende":"Liverpool"
     },
     {
-        "question":"Quel est le port le plus important en terme de transport de marchandise (en fonction de la masse de marchandises échangées)?",
+        "question":"Quel est le port le plus important en terme de masse de marchandises échangées?",
         "propositionune":"Port de Canton (Guangzhou)",
         "propositiondeux":"Port de Ningbo-Zhoushan",
         "propositiontrois":"Port de Rotterdam",
         "propositionquatre":"Port de Shanghai",
         "reponse":" Port de Ningbo-Zhoushan ",
         "petiteinfo":"Le port de Rotterdam qui est le premier port européen n’est que le onzième. Sur les dix premiers ports de commerce 8 sont chinois, un australien et un singapourien.",
-        "image":" https://upload.wikimedia.org/wikipedia/commons/e/e1/Phase_4_Dock_of_Beilun_Port%2C_2015-04-11_01.jpg ",
+        "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Beilun_Port_2020-05-02.jpg/640px-Beilun_Port_2020-05-02.jpg",
         "legende":" Port de Ningbo-Zhoushan "
     },
     {
@@ -1101,8 +1101,8 @@
         "reponse":" Entre 2 et 3 millions d'habitants ",
         "reponse":" Entre 2 et 3 millions d'habitants ",
         "petiteinfo":" La population de l’agglomération est d’environ 2 812 678 habitants ",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/a/ab/Churche-de-S-Vicente-de-Fora_2014-11-08.jpg",
-        "legende":"Monastère São Vicente de Fora dans le centre-ville de Lisbonne"
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Torre_Bel%C3%A9m_April_2009-4a.jpg/503px-Torre_Bel%C3%A9m_April_2009-4a.jpg",
+        "legende":"Tour de Belém à Lisbonne"
     },
     {
         "question":"Combien d'habitants compte l'agglomération de Saint-Pétersbourg ?",
@@ -1135,7 +1135,7 @@
         "propositionquatre":"Plus de 20 millions d'habitants",
         "reponse":" Plus de 20 millions d'habitants ",
         "petiteinfo":" La population de l’agglomération est d’environ 22 589 036 habitants ",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/f/f7/Lower_Manhattan_skyline_-_June_2017.jpg",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lower_Manhattan_skyline_-_June_2017.jpg/640px-Lower_Manhattan_skyline_-_June_2017.jpg",
         "legende":"New-York"
     },
     {
@@ -1399,7 +1399,7 @@
         "propositionquatre":" Glasgow  ",
         "reponse":" Édimbourg ",
         "petiteinfo":"La ville est moins peuplée que Glasgow mais il s’agit bien de la capitale de l’Écosse.",
-        "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/View_from_Scott_Monument.jpg/1024px-View_from_Scott_Monument.jpg ",
+        "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arthurs_seat_edinburgh.jpg/640px-Arthurs_seat_edinburgh.jpg",
         "legende":" Édimbourg "
     },
     {
@@ -1581,11 +1581,11 @@
     {
         "question":" Quelle est la distance à vol d'oiseau entre New-York et Los Angeles ?",
         "propositionune":"Entre 0 et 1000 km",
-        "propositiondeux":"Entre 1000 et 2000",
-        "propositiontrois":"Entre 2000 et 3000",
-        "propositionquatre":"Entre 3000 et 4000",
+        "propositiondeux":"Entre 1000 et 2000 km",
+        "propositiontrois":"Entre 2000 et 3000 km ",
+        "propositionquatre":"Entre 3000 et 4000 km",
         "reponse":" Entre 3000 et 4000",
-        "petiteinfo":"Il faut environ 6 heures pour rejoindre New-York à Los Angeles en avion.",
+        "petiteinfo":"La distance à vol d’oiseau entre New-York et Los Angeles et d’environ  3 900 km. Il faut environ 6 heures pour rejoindre New-York à Los Angeles en avion.",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Map_of_USA_with_state_names_fr.svg/1024px-Map_of_USA_with_state_names_fr.svg.png",
         "legende":"Carte des États des États-Unis"
     },
@@ -1640,7 +1640,7 @@
         "propositiontrois":"Entre 101 et 106",
         "propositionquatre":"Entre 106 et 111",
         "reponse":" Entre 101 et 106",
-        "petiteinfo":" Il existe actuellement 101 départements dont cinq sont situés outre-mer(Guadeloupe, Guyane, Martinique, La Réunion et Mayotte)",
+        "petiteinfo":" Il existe actuellement 101 départements dont cinq sont situés outre-mer (Guadeloupe, Guyane, Martinique, La Réunion et Mayotte)",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/France_d%C3%A9partementale.svg/506px-France_d%C3%A9partementale.svg.png",
         "legende":"Carte de France et des départements"
     }
