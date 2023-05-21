@@ -201,14 +201,14 @@
 
     },
     {
-        "question":"Avec lequel de ces pays la France ne possède t-elle pas de frontière commune ?",
+        "question":"Avec lequel de ces pays la France ne possède-t-elle pas de frontière commune ?",
         "propositionune":"Les Pays-Bas",
         "propositiondeux":"Le Surninam",
         "propositiontrois":"Le Liechtenstein",
         "propositionquatre":"Monaco",
         "reponse":"Le Liechtenstein",
         "petiteinfo":"La France possède 13 km de frontière commune avec les pays-Bas, l'île de Saint-Marin étant divisée entre une partie française et une partie néerlandaise, grace au département de la Guyane, La France possède 520 km de frontière avec le Surinam et elle a 73 kilomètres de frontière avec le Luxembourg. ",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/b/b3/Liechtenstein-map-fr.JPG",
+        "image":" https://upload.wikimedia.org/wikipedia/commons/b/b3/Liechtenstein-map-fr.JPG ",
         "legende":"Carte du Liechtenstein"
     },
     {
@@ -252,7 +252,7 @@
         "propositionquatre":"Le Kazakhstan",
         "reponse":"Le Kazakhstan",
         "petiteinfo":"Willem-Alexander est le roi des Pays-Bas, Mohammed VI est le roi du Maroc, Naruhito est l'empereur du Japon.",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/e/e2/Enthronement_Ceremony_of_Emperor_Naruhito_2.png",
+        "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Zijne_Majesteit_Koning_Willem-Alexander_met_koningsmantel_april_2013_%28cropped%29.jpeg/360px-Zijne_Majesteit_Koning_Willem-Alexander_met_koningsmantel_april_2013_%28cropped%29.jpeg ",
         "legende":"Naruhito pendant son couronnement"
     },
     {
@@ -373,7 +373,7 @@
         "propositionquatre":"Le lac Supérieur",
         "reponse":"Le lac Supérieur",
         "petiteinfo":"La Mer Caspienne n'est pas le plus grand lac du monde, pendant un temps son statut juridique complexe pour des raisons géopolitique la classée dans la catégorie des lacs mais ce n'est plus le cas depuis un accord signé par les pays riverains en 2018. Le lac Supérieur a une superficie de 82 100 km². ",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/9/96/Duluth_Harbor_Entrance_in_February_%2825632302346%29.jpg",
+        "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lake_Superior_at_Neys_Provincial_Park_Ontario.jpg/640px-Lake_Superior_at_Neys_Provincial_Park_Ontario.jpg ",
         "legende":"Le lac supérieur"
     },
     {
@@ -418,7 +418,7 @@
         "propositionquatre":"Tanzanie",
         "reponse":"Tanzanie",
         "petiteinfo":"Le mont Kilimandjaro atteint 5 895 mètres d'altitude. Il s'agit du plus haut sommet d'Afrique.",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Kilimanjaro_from_Amboseli.jpg",
+        "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kilimanjaro_from_Amboseli.jpg/640px-Kilimanjaro_from_Amboseli.jpg ",
         "legende":"Le Kilimandjaro"
     },
     {
@@ -693,8 +693,8 @@
         "propositiontrois":"Situé à l'ouest",
         "propositionquatre":"Situé au sud",
         "reponse":"Situé au nord",
-        "petiteinfo":"Cela est dû au fait que les latin ont baptisé la constellation de la grande ourse septentrion, en raison des sept étoiles qui composent la constellation.",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/6/62/Ca._1720_chart_of_the_constellations_of_the_Northern_Hemisphere.jpg",
+        "petiteinfo":"Cela est dû au fait que les latins ont baptisé la constellation de la grande ourse septentrion, en raison des sept étoiles qui composent la constellation.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ca._1720_chart_of_the_constellations_of_the_Northern_Hemisphere.jpg/481px-Ca._1720_chart_of_the_constellations_of_the_Northern_Hemisphere.jpg",
         "legende":"Planisphère céleste septentrional"
     },
     {
@@ -782,7 +782,7 @@
         "propositionquatre":"55,5 millions de km²",
         "reponse":"5,5 millions de km²",
         "petiteinfo":"5,5 millions de km², c'est l'équivalent de la moitié de la superficie totale de l'Europe. Il est à noté que le bassin amazonien à une superficie de 7,4 millions de km².",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/1/18/Amazon_CIAT_%285%29.jpg",
+        "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Amazon_CIAT_%285%29.jpg/640px-Amazon_CIAT_%285%29.jpg ",
         "legende":"Forêt Amazonienne"
     },
     {
@@ -794,7 +794,7 @@
         "reponse":"Salt Lake City",
         "petiteinfo":"La ville a été fondée par des Mormons au milieu du XIXème siècle et accueille en son centre le plus important temple mormon du monde.",
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Salt_Lake_Temple%2C_Utah_-_Sept_2004-2.jpg/435px-Salt_Lake_Temple%2C_Utah_-_Sept_2004-2.jpg",
-        "legende":"Temple Square en 1899"
+        "legende":"Temple Square "
     },
     {
         "question":"Quelle ville est surnommée le Paris de l'Amérique du Sud ?",
@@ -815,7 +815,7 @@
         "propositionquatre":"Plus de 15%",
         "reponse":"entre 5% et 10%",
         "petiteinfo":"Selon WWF, la toundra occupe 11 700 000 km², soit 8% des terres immergées.",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/6/60/Kesugi_Ridge_landscape._Denali_State_Park%2C_Alaska_%2828778975574%29.jpg",
+        "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Kesugi_Ridge_landscape._Denali_State_Park%2C_Alaska_%2828778975574%29.jpg/640px-Kesugi_Ridge_landscape._Denali_State_Park%2C_Alaska_%2828778975574%29.jpg ",
         "legende":"Toudra en Alaska"
     },
     {
@@ -826,7 +826,7 @@
         "propositionquatre":"160 075 km",
         "reponse":"40 075 km",
         "petiteinfo":"C'est environ 30 fois la distance entre Brest et Monaco.",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/c/cb/The_Blue_Marble_%28remastered%29.jpg",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/The_Blue_Marble_%28remastered%29.jpg/480px-The_Blue_Marble_%28remastered%29.jpg",
         "legende":"La Bille bleue, Apollo 17"
     },
     {
@@ -870,7 +870,7 @@
         "propositionquatre":"Berlin",
         "reponse":"Chicago",
         "petiteinfo":"Dévastée par un incendie en 1871, la ville de Chicago, alors composée d'édifices en bois, est reconstruite en acier, et pour gagner de la place on construit en hauteur. Le Home Insurance Building (1884-85, 42 m de hauteur) de l’architecte William Le Baron Jenney est considéré comme le premier gratte-ciel, car il constitue le premier édifice dont la structure est entièrement faite d’acier. ",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/b/b3/Chicago_%289%29.jpg",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Chicago_%289%29.jpg/640px-Chicago_%289%29.jpg",
         "legende":"Buildings à Chicago"
     },
     {
@@ -914,16 +914,16 @@
         "propositionquatre":"Les Cinquantièmes hurlants",
         "reponse":"Les Quarantièmes rugissants",
         "petiteinfo":"Les quarantièmes rugissants est le nom qui a été donné par les marins aux latitudes situées entre les 40e et 50e parallèles dans l'hémisphère Sud tandis que les latitudes entre les 50e et 60e parallèles sont surnommées les Cinquantièmes hurlants. Un dicton connu chez les marins dit : 'Sous 40 degrés, il n’y a plus de lois, mais sous 50 degrés, il n’y a plus de Dieu.'",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Vernet%2C_Claude_Joseph_-_The_Shipwreck_-_1772.jpg",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vernet%2C_Claude_Joseph_-_The_Shipwreck_-_1772.jpg/640px-Vernet%2C_Claude_Joseph_-_The_Shipwreck_-_1772.jpg ",
         "legende":"Claude Joseph Vernet, Le Naufrage (1772), Washington, National Gallery of Art"
     },
     {
         "question":"Quel est le premier pays à avoir accordé le droit de vote aux femmes ?",
-        "propositionune":"Nouvelle-Zélande",
-        "propositiondeux":"Pays-Bas",
-        "propositiontrois":"Royaume-Uni",
-        "propositionquatre":"Suède",
-        "reponse":"Nouvelle-Zélande",
+        "propositionune":"La Nouvelle-Zélande",
+        "propositiondeux":"Les Pays-Bas",
+        "propositiontrois":"Le Royaume-Uni",
+        "propositionquatre":"La Suède",
+        "reponse":"La Nouvelle-Zélande",
         "petiteinfo":"La Nouvelle-Zélande adopte le suffrage universel en 1893, permettant aux femmes (y compris les femmes maori) de voter lors des élections législatives de cette année-là. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Annie_Kenney_and_Christabel_Pankhurst.jpg",
         "legende":"Les suffragettes britanniques Annie Kenney et Christabel Pankhurst manifestent pour le droit de vote des femmes, 1908."
@@ -935,7 +935,7 @@
         "propositiontrois":"Les Islandais",
         "propositionquatre":"Les Tchèques",
         "reponse":"Les Hollandais",
-        "petiteinfo":" Selon la NCD Risk Factor Collaboration, Les Hollandais mesurent en moyenne 175,62 cm, les Tchèques 174,28 cm (5ème du classement), Les Islandais 173,21 cm (10ème) et les français 172,31 cm (21ème)",
+        "petiteinfo":" Selon la NCD Risk Factor Collaboration, Les Hollandais mesurent en moyenne 175,62 cm, les Tchèques 174,28 cm (5ème du classement), Les Islandais 173,21 cm (10ème) et les français 172,31 cm (21ème).",
         "image":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Dutch_football_supporters_20120609_%281%29.jpg",
         "legende":"Spectateurs hollandais pendant un match de foot."
     },
@@ -967,7 +967,7 @@
         "propositiondeux":"Le pays des Slaves du Sud",
         "propositiontrois":"Le pays proche de la mer",
         "propositionquatre":"Le pays des hommes intègres",
-        "reponse":" Le pays des Slaves du Sud ",
+        "reponse":"Le pays des Slaves du Sud ",
         "petiteinfo":" Ce nom vient Du serbo-croate Jugoslavija , composé de jug (‘sud’) et de slavija , littéralement ‘pays des Slaves du sud’. ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Slaven.jpg/561px-Slaven.jpg",
         "legende":" Carte de l’Europe du sud 1869 "
@@ -990,7 +990,7 @@
         "propositiontrois":"Le Montana",
         "propositionquatre":"Le Texas",
         "reponse":"L'Alaska",
-        "petiteinfo":"L'Alaska a une superficie d'environ 1,7 million de km2, le Texas de 700 000 km2, la Californie de 423 000 km2 et le Montana de 380 000 km2",
+        "petiteinfo":"L'Alaska a une superficie d'environ 1,7 million de km2, le Texas de 700 000 km2, la Californie de 423 000 km2 et le Montana de 380 000 km2.",
         "image":"https://upload.wikimedia.org/wikipedia/commons/9/96/State_Seal_of_Alaska.svg",
         "legende":"Sceau de l'Alaska"
     },
@@ -1012,7 +1012,7 @@
         "propositionquatre":"Mexicaine",
         "reponse":"Argentine ",
         "petiteinfo":"Il est né à Rosario en Argentine.",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/5/58/CheHigh.jpg",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/CheHigh.jpg/374px-CheHigh.jpg",
         "legende":"Che Guevara"
     },
     {
@@ -1023,7 +1023,7 @@
         "propositionquatre":"Plus de 650 000 habitants",
         "reponse":"Plus de 650 000 habitants ",
         "petiteinfo":"Selon l’INSEE, en 2016, la population de l’aire urbaine de Rouen était de 665 249 habitants.",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/7/71/Panorama_of_Rouen.jpg",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Panorama_of_Rouen.jpg/640px-Panorama_of_Rouen.jpg",
         "legende":"Rouen"
     },
     {
@@ -1032,8 +1032,8 @@
         "propositiondeux":"Entre 500 000 et 1 million d'habitants",
         "propositiontrois":"Entre 1 et 2 millions d'habitants",
         "propositionquatre":"Plus de 2 millions d'habitants",
-        "reponse":" Entre 500 000 et 1 million d'habitants",
-        "petiteinfo":"L’aire urbaine de Liverpool compte environ 870 000 habitants ",
+        "reponse":"Entre 500 000 et 1 million d'habitants",
+        "petiteinfo":"L’aire urbaine de Liverpool compte environ 870 000 habitants. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/8/8a/Liverpool_city_centre.jpg",
         "legende":"Liverpool"
     },
@@ -1055,7 +1055,7 @@
         "propositiontrois":"Entre 1 et 2 millions d'habitants",
         "propositionquatre":"Plus de 2 millions d'habitants",
         "reponse":"Plus de 2 millions d'habitants ",
-        "petiteinfo":"La population d’Hambourg est d’environ 3 173 871 habitants",
+        "petiteinfo":"La population d’Hambourg est d’environ 3 173 871 habitants.",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Speicherstadt_abends.jpg/640px-Speicherstadt_abends.jpg ",
         "legende":" Speicherstadt,  à Hambourg"
     },
@@ -1066,7 +1066,7 @@
         "propositiontrois":"Entre 1 et 2 millions d'habitants",
         "propositionquatre":"Plus de 2 millions d'habitants",
         "reponse":"Plus de 2 millions d'habitants ",
-        "petiteinfo":" La population de l’agglomération est d’environ 4 469 439 habitants ",
+        "petiteinfo":"La population de l’agglomération est d’environ 4 469 439 habitants. ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Berlin_Rotes_Rathaus_2.jpg/615px-Berlin_Rotes_Rathaus_2.jpg ",
         "legende":"Hôtel de ville de Berlin"
     },
@@ -1076,8 +1076,8 @@
         "propositiondeux":"Entre 500 000 et 1 million d'habitants",
         "propositiontrois":"Entre 1 et 2 millions d'habitants",
         "propositionquatre":"Plus de 2 millions d'habitants",
-        "reponse":" Plus de 2 millions d'habitants ",
-        "petiteinfo":" La population de l’agglomération est d’environ 2 879 107 habitants ",
+        "reponse":"Plus de 2 millions d'habitants ",
+        "petiteinfo":"La population de l’agglomération est d’environ 2 879 107 habitants. ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stadtbild_M%C3%BCnchen.jpg/640px-Stadtbild_M%C3%BCnchen.jpg ",
         "legende":" Marienplatz , Munich"
     },
@@ -1087,8 +1087,8 @@
         "propositiondeux":"Entre 1 et 2 million d'habitants",
         "propositiontrois":"Entre 2 et 3 millions d'habitants",
         "propositionquatre":"Plus de 3 millions d'habitants",
-        "reponse":" Entre 2 et 3 millions d'habitants ",
-        "petiteinfo":" La population de l’agglomération est d’environ 2 782 141 habitants ",
+        "reponse":"Entre 2 et 3 millions d'habitants ",
+        "petiteinfo":" La population de l’agglomération est d’environ 2 782 141 habitants. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Whitworthhall.jpg",
         "legende":"Université de Manchester"
     },
@@ -1098,9 +1098,8 @@
         "propositiondeux":"Entre 1 et 2 million d'habitants",
         "propositiontrois":"Entre 2 et 3 millions d'habitants",
         "propositionquatre":"Plus de 3 millions d'habitants",
-        "reponse":" Entre 2 et 3 millions d'habitants ",
-        "reponse":" Entre 2 et 3 millions d'habitants ",
-        "petiteinfo":" La population de l’agglomération est d’environ 2 812 678 habitants ",
+        "reponse":"Entre 2 et 3 millions d'habitants ",
+        "petiteinfo":" La population de l’agglomération est d’environ 2 812 678 habitants. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Torre_Bel%C3%A9m_April_2009-4a.jpg/503px-Torre_Bel%C3%A9m_April_2009-4a.jpg",
         "legende":"Tour de Belém à Lisbonne"
     },
@@ -1110,10 +1109,10 @@
         "propositiondeux":"Entre 1 et 2 million d'habitants",
         "propositiontrois":"Entre 2 et 3 millions d'habitants",
         "propositionquatre":"Plus de 3 millions d'habitants",
-        "reponse":" Entre 2 et 3 millions d'habitants ",
-        "reponse":" Plus de 3 millions d'habitants ",
-        "petiteinfo":" La population de l’agglomération est d’environ 6 290 174 habitants ",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/6/64/Peter_%26_Paul_fortress_in_SPB_03.jpg",
+        "reponse":"Entre 2 et 3 millions d'habitants ",
+        "reponse":"Plus de 3 millions d'habitants ",
+        "petiteinfo":" La population de l’agglomération est d’environ 6 290 174 habitants. ",
+        "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Peter_%26_Paul_fortress_in_SPB_03.jpg/640px-Peter_%26_Paul_fortress_in_SPB_03.jpg ",
         "legende":"Forteresse Pierre et Paul à Saint Petersbourg"
     },
     {
@@ -1122,9 +1121,9 @@
         "propositiondeux":"Entre 5 et 10 million d'habitants",
         "propositiontrois":"Entre 10 et 20 millions d'habitants",
         "propositionquatre":"Plus de 20 millions d'habitants",
-        "reponse":" Plus de 20 millions d'habitants ",
-        "petiteinfo":" La population de l’agglomération est d’environ 20 215 638 habitants ",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/3/3b/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C1.jpg",
+        "reponse":"Plus de 20 millions d'habitants ",
+        "petiteinfo":"La population de l’agglomération est d’environ 20 215 638 habitants. ",
+        "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/%D0%91%D0%B0%D1%88%D0%BD%D0%B8_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg/640px-%D0%91%D0%B0%D1%88%D0%BD%D0%B8_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg ",
         "legende":"Le Kremlin, Moscou"
     },
     {
@@ -1134,7 +1133,7 @@
         "propositiontrois":"Entre 10 et 20 millions d'habitants",
         "propositionquatre":"Plus de 20 millions d'habitants",
         "reponse":"Plus de 20 millions d'habitants ",
-        "petiteinfo":" La population de l’agglomération est d’environ 22 589 036 habitants ",
+        "petiteinfo":"La population de l’agglomération est d’environ 22 589 036 habitants. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lower_Manhattan_skyline_-_June_2017.jpg/640px-Lower_Manhattan_skyline_-_June_2017.jpg",
         "legende":"New-York"
     },
@@ -1144,9 +1143,9 @@
         "propositiondeux":"Entre 1 et 2 million d'habitants",
         "propositiontrois":"Entre 2 et 3 millions d'habitants",
         "propositionquatre":"Plus de 3 millions d'habitants",
-        "reponse":" Entre 2 et 3 millions d'habitants ",
-        "petiteinfo":" La population de l’agglomération est d’environ 1 944 430 habitants ",
-        "image":"https://upload.wikimedia.org/wikipedia/commons/0/05/Monumental_Plaza_de_Espa%C3%B1a_de_Sevilla.jpg",
+        "reponse":"Entre 2 et 3 millions d'habitants ",
+        "petiteinfo":"La population de l’agglomération est d’environ 1 944 430 habitants. ",
+        "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Plaza_de_Espa%C3%B1a_%28Sevilla%29_-_01.jpg/640px-Plaza_de_Espa%C3%B1a_%28Sevilla%29_-_01.jpg ",
         "legende":"La Plaza de España de Seville"
     },
     {
@@ -1155,8 +1154,8 @@
         "propositiondeux":"Entre 500 000 et 1 million d'habitants",
         "propositiontrois":"Entre 1 et 2 millions d'habitants",
         "propositionquatre":"Plus de 2 millions d'habitants",
-        "reponse":" Entre 1 et 2 millions d'habitants ",
-        "petiteinfo":" La population de l’agglomération est d’environ 1 873 270 habitants ",
+        "reponse":"Entre 1 et 2 millions d'habitants ",
+        "petiteinfo":" La population de l’agglomération est d’environ 1 873 270 habitants. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/3/3d/Views_of_Marseille_from_the_Cit%C3%A9_radieuse_4.jpg",
         "legende":"Stade Vélodrome à Marseille"
     },
@@ -1166,8 +1165,8 @@
         "propositiondeux":"Entre 500 000 et 1 million d'habitants",
         "propositiontrois":"Entre 1 et 2 millions d'habitants",
         "propositionquatre":"Plus de 2 millions d'habitants",
-        "reponse":" Entre 1 et 2 millions d'habitants ",
-        "petiteinfo":" Selon le dernier recensement  l’agglomération d’Amsterdam comptait en 2022  environ 1 654 000 hab",
+        "reponse":"Entre 1 et 2 millions d'habitants ",
+        "petiteinfo":" Selon le dernier recensement  l’agglomération d’Amsterdam comptait en 2022  environ 1 654 000 habitants.",
         "image":"https://upload.wikimedia.org/wikipedia/commons/f/f9/Amsterdam_-_Rijksmuseum_-_panoramio_-_Nikolai_Karaneschev.jpg",
         "legende":"Rijksmuseum, Amsterdam "
     },
@@ -1177,8 +1176,8 @@
         "propositiondeux":"Entre 500 000 et 1 million d'habitants",
         "propositiontrois":"Entre 1 et 2 millions d'habitants",
         "propositionquatre":"Plus de 2 millions d'habitants",
-        "reponse":" Plus de 2 millions d'habitants ",
-        "petiteinfo":" La population de l’agglomération est d’environ 2 931 445 habitants ",
+        "reponse":"Plus de 2 millions d'habitants ",
+        "petiteinfo":" La population de l’agglomération est d’environ 2 931 445 habitants. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/1/11/Nyhavn-panorama.jpg",
         "legende":"Nyhavn - un canal à Copenhagen"
     },
@@ -1188,8 +1187,8 @@
         "propositiondeux":"Entre 5 et 10 million d'habitants",
         "propositiontrois":"Entre 10 et 20 millions d'habitants",
         "propositionquatre":"Plus de 20 millions d'habitants",
-        "reponse":" Plus de 20 millions d'habitants ",
-        "petiteinfo":" La population de l’agglomération est d’environ 23 426 128 habitants ",
+        "reponse":"Plus de 20 millions d'habitants ",
+        "petiteinfo":" La population de l’agglomération est d’environ 23 426 128 habitants. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/8/8a/Quartier_de_Tianhe_Canton_Chine.jpg",
         "legende":"Canton"
     },
@@ -1199,8 +1198,8 @@
         "propositiondeux":"Entre 5 et 10 million d'habitants",
         "propositiontrois":"Entre 10 et 20 millions d'habitants",
         "propositionquatre":"Plus de 20 millions d'habitants",
-        "reponse":" Plus de 20 millions d'habitants ",
-        "petiteinfo":" La population de l’agglomération est d’environ 21 893 095  habitants ",
+        "reponse":"Plus de 20 millions d'habitants ",
+        "petiteinfo":" La population de l’agglomération est d’environ 21 893 095  habitants. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hall_of_Supreme_Harmony.JPG/640px-Hall_of_Supreme_Harmony.JPG",
         "legende":"La cité interdite"
     },
@@ -1210,8 +1209,8 @@
         "propositiondeux":"Entre 5 et 10 million d'habitants",
         "propositiontrois":"Entre 10 et 20 millions d'habitants",
         "propositionquatre":"Plus de 20 millions d'habitants",
-        "reponse":" Entre 5 et 10 million d'habitants ",
-        "petiteinfo":" La population de l’agglomération est d’environ 5 407 264 habitants ",
+        "reponse":"Entre 5 et 10 million d'habitants ",
+        "petiteinfo":" La population de l’agglomération est d’environ 5 407 264 habitants. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/1/19/Eixample_aire_cropped.jpg",
         "legende":"Barcelone vue du ciel"
     },
@@ -1531,7 +1530,7 @@
         "propositionquatre":" Aux États-Unis ",
         "reponse":" À la Papouasie-Nouvelle-Guinée ",
         "petiteinfo":"Plus de 115 000 personnes vivent aujourd’hui sur l’île",
-        "image":" https://en.wikipedia.org/wiki/New_Ireland_(island)#/media/File:NewIrelandOMC.png ",
+        "image":" https://upload.wikimedia.org/wikipedia/commons/4/4d/NewIrelandOMC.png ",
         "legende":"Carte de la Nouvelle-Irlande"
     },
     {
@@ -1595,8 +1594,8 @@
         "propositiondeux":"Entre 5 000 et 10 000 km",
         "propositiontrois":"Entre 10 000 et 15 000 km",
         "propositionquatre":"Entre 15 000 et 20 000 km",
-        "reponse":" Entre 15 000 et 20 000 km ",
-        "petiteinfo":"La distance est d’approximativement 16 800 kilomètre",
+        "reponse":"Entre 15 000 et 20 000 km ",
+        "petiteinfo":"La distance est d’approximativement 16 800 kilomètre.",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flags_of_New_Caledonia.svg/640px-Flags_of_New_Caledonia.svg.png ",
         "legende":"Drapeau français et néo-calédonien"
     },
@@ -1605,7 +1604,7 @@
         "propositionune":"4 383 km",
         "propositiondeux":"5 383 km",
         "propositiontrois":"6 383 km",
-        "propositionquatre":" 7 383 km",
+        "propositionquatre":"7 383 km",
         "reponse":"6 383 km ",
         "petiteinfo":" Soit près de 1000 kilomètres de plus que la distance entre New-York et Brest à vol d’oiseau.",
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Russia_physical_location_map_%28Crimea_disputed%2C_compressed%29.jpg/640px-Russia_physical_location_map_%28Crimea_disputed%2C_compressed%29.jpg ",
@@ -1617,7 +1616,7 @@
         "propositiondeux":"Bornéo",
         "propositiontrois":" Groenland ",
         "propositionquatre":"La Nouvelle-Guinée ",
-        "reponse":" L’Australie ",
+        "reponse":"L’Australie ",
         "petiteinfo":"L’Australie a une superficie de 7 692 024 km2 C’est près de deux fois la superficie de l’Inde.",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Australia_satellite_plane.jpg/583px-Australia_satellite_plane.jpg ",
         "legende":"L’Australie"
@@ -1626,8 +1625,8 @@
         "question":"Quel architecte urbaniste a réalisé les plans de Washington ?",
         "propositionune":"Le Corbusier",
         "propositiondeux":"Auguste Perret",
-        "propositiontrois":" Pierre Charles L'Enfant ",
-        "propositionquatre":" Georges Eugène Haussmann",
+        "propositiontrois":"Pierre Charles L'Enfant ",
+        "propositionquatre":"Georges Eugène Haussmann",
         "reponse":"Pierre Charles L'Enfant",
         "petiteinfo":"Naît en France, Pierre Charles L’enfant arrive au États-Unis comme ingénieur civil pendant la guerre de Sécession. ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Plan_of_the_city_intended_for_the_permanent_seat_of_the_government_of_the_United_States_-_projected_agreeable_to_the_direction_of_the_President_of_the_United_States..._%2814726320702%29.jpg/640px-thumbnail.jpg ",
@@ -1639,7 +1638,7 @@
         "propositiondeux":"Entre 96 et 100",
         "propositiontrois":"Entre 101 et 106",
         "propositionquatre":"Entre 106 et 111",
-        "reponse":" Entre 101 et 106",
+        "reponse":"Entre 101 et 106",
         "petiteinfo":" Il existe actuellement 101 départements dont cinq sont situés outre-mer (Guadeloupe, Guyane, Martinique, La Réunion et Mayotte)",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/France_d%C3%A9partementale.svg/506px-France_d%C3%A9partementale.svg.png",
         "legende":"Carte de France et des départements"
