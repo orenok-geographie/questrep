@@ -99,7 +99,7 @@
         "legende": "Emblème du Royaume-Uni avec la devise."
     },
     {
-        "question": "Lequel de ces pays compte en proportion de sa population le plus d'athées ?",
+        "question": "Lequel de ces pays compte, en proportion de sa population, le plus d'athées ?",
         "propositionune": "Les Pays-Bas",
         "propositiondeux": "La France",
         "propositiontrois": "La Tchéquie",
@@ -154,15 +154,15 @@
         "legende":"Khartoum"
     },
     {
-        "question":"En quelle langue est la devise officielle des pays-bas ?",
+        "question":"En quelle langue est la devise officielle des Pays-Bas ?",
         "propositionune":"En néerlandais",
         "propositiondeux":"En latin",
         "propositiontrois":"En norois",
         "propositionquatre":"En français",
         "reponse":"En français",
-        "petiteinfo":"La devise des Pays-Bas est : Je maintiendrai. C'était la devise de Guillaume Ier, considéré comme Le père de la Patrie par les Néerlandais il est celui qui a mené la révolte de son peuple contre les espagnoles qui alors régner sur le pays. ",
+        "petiteinfo":"La devise des Pays-Bas est : Je maintiendrai. C'était la devise de Guillaume Ier, considéré comme Le père de la Patrie par les Néerlandais il est celui qui a mené la révolte de son peuple contre les Espagnoles qui alors régner sur le pays. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/8/8f/State_coat_of_arms_of_the_Netherlands.svg",
-        "legende":"Emblême des Pays-Bas avec la devise"
+        "legende":"Emblème des Pays-Bas avec la devise"
     },
     {
         "question":"Quelle est la deuxième ville la plus peuplée du Royaume-Uni ?",
@@ -171,7 +171,7 @@
         "propositiontrois":"Liverpool",
         "propositionquatre":"Édimbourg",
         "reponse":"Birmingham",
-        "petiteinfo":"La ville de Birmingham compte environ 1 100 000 habitants et est le coeur d'une agglomération de plus de 4 millions d'habitants. Manchester est la quatrième ville la plus importante du Royaume-Uni avec près de 600 000 habitant (3,3 millions pour son aire urbaine) tandis qu'Édimbourg en est la cinquième avec près de 500 000 habitants (près de 1 000 000 pour son aire urbaine). Ces deux villes se situent donc derrière Glasgow qui est la troisième plus grande ville du Royaume-Uni.",
+        "petiteinfo":"La ville de Birmingham compte environ 1 100 000 habitants et est le coeur d'une agglomération de plus de 4 millions d'habitants. Manchester est la quatrième ville la plus importante du Royaume-Uni avec près de 600 000 habitants (3,3 millions pour son aire urbaine) tandis qu'Édimbourg en est la cinquième avec près de 500 000 habitants (près de 1 000 000 pour son aire urbaine). Ces deux villes se situent donc derrière Glasgow qui est la troisième plus grande ville du Royaume-Uni.",
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Birmingham_Skyline_from_the_West.jpg/640px-Birmingham_Skyline_from_the_West.jpg",
         "legende":"Birmingham"
 
@@ -203,11 +203,11 @@
     {
         "question":"Avec lequel de ces pays la France ne possède-t-elle pas de frontière commune ?",
         "propositionune":"Les Pays-Bas",
-        "propositiondeux":"Le Surninam",
+        "propositiondeux":"Le Surinam",
         "propositiontrois":"Le Liechtenstein",
         "propositionquatre":"Monaco",
         "reponse":"Le Liechtenstein",
-        "petiteinfo":"La France possède 13 km de frontière commune avec les pays-Bas, l'île de Saint-Marin étant divisée entre une partie française et une partie néerlandaise, grace au département de la Guyane, La France possède 520 km de frontière avec le Surinam et elle a 73 kilomètres de frontière avec le Luxembourg. ",
+        "petiteinfo":"La France possède 13 km de frontière commune avec les Pays-Bas, l'île de Saint-Marin étant divisée entre une partie française et une partie néerlandaise, grâce au département de la Guyane, La France possède 520 km de frontière avec le Surinam et elle a 73 kilomètres de frontière avec le Luxembourg. ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/b/b3/Liechtenstein-map-fr.JPG ",
         "legende":"Carte du Liechtenstein"
     },
@@ -242,7 +242,7 @@
         "reponse":"3",
         "petiteinfo":"le Maroc et le Lesotho sont des monarchies constitutionnelles bien que le roi ait énormément de pouvoir au Maroc, L'Eswatini est une monarchie absolue. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/b/ba/King_Mswati_III%2C_2006.jpg",
-        "legende":"Mswati III roi de l'Eswatini en habits traditionels."
+        "legende":"Mswati III roi de l'Eswatini en habits traditionnels."
     },
     {
         "question":"Lequel de ces pays n'est pas une monarchie ?",
@@ -262,7 +262,7 @@
         "propositiontrois":"Le Lesotho",
         "propositionquatre":"La Finlande",
         "reponse":"Le Lesotho",
-        "petiteinfo":"Contrairement à une idée reçue, le Japon n'est pas le pays où l'on se suicide le plus. Dans le 'classement' effectué par l'Organisation Monidale de la Santé (OMS) il est le 49ème pays qui compte le plus de suicides en proportion de sa population avec un taux de 12,2 suicides pour 100 000 habitants.  Le Lesotho avec un taux 87,5 suicides pour 100 000 habitants et le premier du 'classement', La Belgique avec un taux de 13,9‰ est 35 tandis que la Finlande avec un taux de 13,4‰ est 38ème tandis que le Japon est 41ème.  ",
+        "petiteinfo":"Contrairement à une idée reçue, le Japon n'est pas le pays où l'on se suicide le plus. Dans le 'classement' effectué par l'Organisation Mondiale de la Santé (OMS) il est le 49ème pays qui compte le plus de suicides en proportion de sa population avec un taux de 12,2 suicides pour 100 000 habitants.  Le Lesotho avec un taux 87,5 suicides pour 100 000 habitants et le premier du 'classement', La Belgique avec un taux de 13,9‰ est 35 tandis que la Finlande avec un taux de 13,4‰ est 38ème tandis que le Japon est 41ème.  ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/1/18/Thatched_hut_in_Lesotho%2C_Africa.jpg",
         "legende":"une rondavelle au Lesotho"
     },    
@@ -273,9 +273,9 @@
         "propositiontrois":"77 361",
         "propositionquatre":"104 332",
         "reponse":"104 332",
-        "petiteinfo":"Selon les données de la Banques Monidale de 2021, Saint-Vincent et les Grenadines compte 104 332 habitants.",
+        "petiteinfo":"Selon les données de la Banques Mondiale de 2021, Saint-Vincent et les Grenadines compte 104 332 habitants.",
         "image":"https://upload.wikimedia.org/wikipedia/commons/e/e9/Mustiquebeaches.jpg",
-        "legende":"Île de Moustique dans l'archipel des Grandines"
+        "legende":"Île de Moustique dans l'archipel des Grenadines"
     },
     {
         "question":"Quel explorateur a découvert la terre Adélie et lui a donné le nom de sa femme ?",
@@ -324,10 +324,10 @@
     {
         "question":"Lequel de ces pays à le PIB le plus important en 2021 (en $ US courants, selon la Banque mondiale) ?",
         "propositionune":"L'Algérie",
-        "propositiondeux":"La biélorussie",
+        "propositiondeux":"La Biélorussie",
         "propositiontrois":"La Colombie",
-        "propositionquatre":"Le Viet-nam",
-        "reponse":"Le Viet-nam",
+        "propositionquatre":"Le Viêt-Nam",
+        "reponse":"Le Viêt-Nam",
         "petiteinfo":"Le PIB du Viet Nam était de 366 137,59 millions de $, celui de la Colombie de 314 464,14 millions de $, celui de l'Algérie de 163 044,44 millions de $ et celui de la Biélorussie de 68 205,38 millions de $.",
         "image":"https://upload.wikimedia.org/wikipedia/commons/3/3c/Quan_1.jpg",
         "legende":"Hô Chi Minh-Ville"
@@ -558,9 +558,9 @@
         "question":"Lequel de ces géographes célèbres a donné son nom à un courant marin ?",
         "propositionune":"Carl Ritter",
         "propositiondeux":"Pierre Vidal de la Blache",
-        "propositiontrois":"Alexander von humboldt",
+        "propositiontrois":"Alexander von Humboldt",
         "propositionquatre":"Joseph exquis du Raz Blanchard",
-        "reponse":"Alexander von humboldt",
+        "reponse":"Alexander von Humboldt",
         "petiteinfo":"Celui-ci a donné son nom à un courant froid qui longe les côtes du Chili et du Pérou et qui est connu pour être riche en planctons et en poissons. Si le Raz Blanchard existe bien, Joseph exquis du Raz Blanchard lui n'existe pas, il n'a donc pas donné son nom à ce courant.",
         "image":"https://upload.wikimedia.org/wikipedia/commons/7/72/Humboldt-Bonpland_Chimborazo.jpg",
         "legende":"Humboldt et Aimé Bonpland au pied du volcan Chimborazo, peinture de Friedrich Georg Weitsch"
@@ -907,7 +907,7 @@
         "legende":"Bayous de Louisiane"
     },
     {
-        "question":"Comment sont surnommé les latitudes situées entre les 40e et 50e parallèles dans l'hémisphère Sud",
+        "question":"Comment sont surnommées les latitudes situées entre les 40e et 50e parallèles dans l'hémisphère Sud",
         "propositionune":"Les Quarantièmes rugissants",
         "propositiondeux":"Les Quarantièmes du feu",
         "propositiontrois":"Les Quarantièmes tueurs",
@@ -956,7 +956,7 @@
         "propositiondeux":"Ces couleurs s’inversent en temps de paix et en temps de guerre",
         "propositiontrois":"Il possède 10 couleurs différentes",
         "propositionquatre":"Il a une forme triangulaire",
-        "reponse":" Ces couleurs s’inversent en temps de paix et en temps de guerre ",
+        "reponse":"Ces couleurs s’inversent en temps de paix et en temps de guerre",
         "petiteinfo":"En tant de paix le bleu se situe en haut et le rouge en bas. En temps de guerre le rouge se situe en haut et le bleu en bas. La bande bleue symbolise la paix, la vérité et la justice tandis que la bande rouge symbolise le patriotisme et la bravoure. ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/9/96/Flag_of_the_Philippines_inv.svg ",
         "legende":"Drapeau des Philippines en tant de guerre"
@@ -1000,7 +1000,7 @@
         "propositiondeux":"Le Soudan du Sud",
         "propositiontrois":"La Tchéquie",
         "propositionquatre":"L’Ukraine",
-        "reponse":"Le Soudan du Sud ",
+        "reponse":"Le Soudan du Sud",
         "petiteinfo":"Le Soudan du Sud a obtenu son indépendance du Soudan en 2011, Le Kosovo de la Serbie de la Serbie en 2008, l’Ukraine en 1991, et la Tchéquie et la Slovaquie se sont séparés en 1993.  ",       "image":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Salva_Kiir_Mayardit_at_the_White_House_%28cropped%29.jpg ",
         "legende":" Salva Kiir , premier président du Soudan du Sud"
     },
@@ -1010,7 +1010,7 @@
         "propositiondeux":"Colombienne",
         "propositiontrois":"Cubaine",
         "propositionquatre":"Mexicaine",
-        "reponse":"Argentine ",
+        "reponse":"Argentine",
         "petiteinfo":"Il est né à Rosario en Argentine.",
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/CheHigh.jpg/374px-CheHigh.jpg",
         "legende":"Che Guevara"
@@ -1021,7 +1021,7 @@
         "propositiondeux":"Etre 250 et 450 000 habitants",
         "propositiontrois":"Entre 450 et 650 000 habitants",
         "propositionquatre":"Plus de 650 000 habitants",
-        "reponse":"Plus de 650 000 habitants ",
+        "reponse":"Plus de 650 000 habitants",
         "petiteinfo":"Selon l’INSEE, en 2016, la population de l’aire urbaine de Rouen était de 665 249 habitants.",
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Panorama_of_Rouen.jpg/640px-Panorama_of_Rouen.jpg",
         "legende":"Rouen"
@@ -1043,7 +1043,7 @@
         "propositiondeux":"Port de Ningbo-Zhoushan",
         "propositiontrois":"Port de Rotterdam",
         "propositionquatre":"Port de Shanghai",
-        "reponse":"Port de Ningbo-Zhoushan ",
+        "reponse":"Port de Ningbo-Zhoushan",
         "petiteinfo":"Le port de Rotterdam qui est le premier port européen n’est que le onzième. Sur les dix premiers ports de commerce 8 sont chinois, un australien et un singapourien.",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Beilun_Port_2020-05-02.jpg/640px-Beilun_Port_2020-05-02.jpg",
         "legende":" Port de Ningbo-Zhoushan "
@@ -1054,7 +1054,7 @@
         "propositiondeux":"Entre 500 000 et 1 million d'habitants",
         "propositiontrois":"Entre 1 et 2 millions d'habitants",
         "propositionquatre":"Plus de 2 millions d'habitants",
-        "reponse":"Plus de 2 millions d'habitants ",
+        "reponse":"Plus de 2 millions d'habitants",
         "petiteinfo":"La population d’Hambourg est d’environ 3 173 871 habitants.",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Speicherstadt_abends.jpg/640px-Speicherstadt_abends.jpg ",
         "legende":" Speicherstadt,  à Hambourg"
@@ -1065,7 +1065,7 @@
         "propositiondeux":"Entre 500 000 et 1 million d'habitants",
         "propositiontrois":"Entre 1 et 2 millions d'habitants",
         "propositionquatre":"Plus de 2 millions d'habitants",
-        "reponse":"Plus de 2 millions d'habitants ",
+        "reponse":"Plus de 2 millions d'habitants",
         "petiteinfo":"La population de l’agglomération est d’environ 4 469 439 habitants. ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Berlin_Rotes_Rathaus_2.jpg/615px-Berlin_Rotes_Rathaus_2.jpg ",
         "legende":"Hôtel de ville de Berlin"
@@ -1076,7 +1076,7 @@
         "propositiondeux":"Entre 500 000 et 1 million d'habitants",
         "propositiontrois":"Entre 1 et 2 millions d'habitants",
         "propositionquatre":"Plus de 2 millions d'habitants",
-        "reponse":"Plus de 2 millions d'habitants ",
+        "reponse":"Plus de 2 millions d'habitants",
         "petiteinfo":"La population de l’agglomération est d’environ 2 879 107 habitants. ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stadtbild_M%C3%BCnchen.jpg/640px-Stadtbild_M%C3%BCnchen.jpg ",
         "legende":" Marienplatz , Munich"
@@ -1087,7 +1087,7 @@
         "propositiondeux":"Entre 1 et 2 million d'habitants",
         "propositiontrois":"Entre 2 et 3 millions d'habitants",
         "propositionquatre":"Plus de 3 millions d'habitants",
-        "reponse":"Entre 2 et 3 millions d'habitants ",
+        "reponse":"Entre 2 et 3 millions d'habitants",
         "petiteinfo":" La population de l’agglomération est d’environ 2 782 141 habitants. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Whitworthhall.jpg",
         "legende":"Université de Manchester"
@@ -1098,7 +1098,7 @@
         "propositiondeux":"Entre 1 et 2 million d'habitants",
         "propositiontrois":"Entre 2 et 3 millions d'habitants",
         "propositionquatre":"Plus de 3 millions d'habitants",
-        "reponse":"Entre 2 et 3 millions d'habitants ",
+        "reponse":"Entre 2 et 3 millions d'habitants",
         "petiteinfo":" La population de l’agglomération est d’environ 2 812 678 habitants. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Torre_Bel%C3%A9m_April_2009-4a.jpg/503px-Torre_Bel%C3%A9m_April_2009-4a.jpg",
         "legende":"Tour de Belém à Lisbonne"
@@ -1109,8 +1109,7 @@
         "propositiondeux":"Entre 1 et 2 million d'habitants",
         "propositiontrois":"Entre 2 et 3 millions d'habitants",
         "propositionquatre":"Plus de 3 millions d'habitants",
-        "reponse":"Entre 2 et 3 millions d'habitants ",
-        "reponse":"Plus de 3 millions d'habitants ",
+        "reponse":"Plus de 3 millions d'habitants",
         "petiteinfo":" La population de l’agglomération est d’environ 6 290 174 habitants. ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Peter_%26_Paul_fortress_in_SPB_03.jpg/640px-Peter_%26_Paul_fortress_in_SPB_03.jpg ",
         "legende":"Forteresse Pierre et Paul à Saint Petersbourg"
@@ -1121,7 +1120,7 @@
         "propositiondeux":"Entre 5 et 10 million d'habitants",
         "propositiontrois":"Entre 10 et 20 millions d'habitants",
         "propositionquatre":"Plus de 20 millions d'habitants",
-        "reponse":"Plus de 20 millions d'habitants ",
+        "reponse":"Plus de 20 millions d'habitants",
         "petiteinfo":"La population de l’agglomération est d’environ 20 215 638 habitants. ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/%D0%91%D0%B0%D1%88%D0%BD%D0%B8_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg/640px-%D0%91%D0%B0%D1%88%D0%BD%D0%B8_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg ",
         "legende":"Le Kremlin, Moscou"
@@ -1132,7 +1131,7 @@
         "propositiondeux":"Entre 5 et 10 million d'habitants",
         "propositiontrois":"Entre 10 et 20 millions d'habitants",
         "propositionquatre":"Plus de 20 millions d'habitants",
-        "reponse":"Plus de 20 millions d'habitants ",
+        "reponse":"Plus de 20 millions d'habitants",
         "petiteinfo":"La population de l’agglomération est d’environ 22 589 036 habitants. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lower_Manhattan_skyline_-_June_2017.jpg/640px-Lower_Manhattan_skyline_-_June_2017.jpg",
         "legende":"New-York"
@@ -1143,7 +1142,7 @@
         "propositiondeux":"Entre 1 et 2 million d'habitants",
         "propositiontrois":"Entre 2 et 3 millions d'habitants",
         "propositionquatre":"Plus de 3 millions d'habitants",
-        "reponse":"Entre 2 et 3 millions d'habitants ",
+        "reponse":"Entre 2 et 3 millions d'habitants",
         "petiteinfo":"La population de l’agglomération est d’environ 1 944 430 habitants. ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Plaza_de_Espa%C3%B1a_%28Sevilla%29_-_01.jpg/640px-Plaza_de_Espa%C3%B1a_%28Sevilla%29_-_01.jpg ",
         "legende":"La Plaza de España de Seville"
@@ -1154,7 +1153,7 @@
         "propositiondeux":"Entre 500 000 et 1 million d'habitants",
         "propositiontrois":"Entre 1 et 2 millions d'habitants",
         "propositionquatre":"Plus de 2 millions d'habitants",
-        "reponse":"Entre 1 et 2 millions d'habitants ",
+        "reponse":"Entre 1 et 2 millions d'habitants",
         "petiteinfo":" La population de l’agglomération est d’environ 1 873 270 habitants. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/3/3d/Views_of_Marseille_from_the_Cit%C3%A9_radieuse_4.jpg",
         "legende":"Stade Vélodrome à Marseille"
@@ -1165,7 +1164,7 @@
         "propositiondeux":"Entre 500 000 et 1 million d'habitants",
         "propositiontrois":"Entre 1 et 2 millions d'habitants",
         "propositionquatre":"Plus de 2 millions d'habitants",
-        "reponse":"Entre 1 et 2 millions d'habitants ",
+        "reponse":"Entre 1 et 2 millions d'habitants",
         "petiteinfo":" Selon le dernier recensement  l’agglomération d’Amsterdam comptait en 2022  environ 1 654 000 habitants.",
         "image":"https://upload.wikimedia.org/wikipedia/commons/f/f9/Amsterdam_-_Rijksmuseum_-_panoramio_-_Nikolai_Karaneschev.jpg",
         "legende":"Rijksmuseum, Amsterdam "
@@ -1176,7 +1175,7 @@
         "propositiondeux":"Entre 500 000 et 1 million d'habitants",
         "propositiontrois":"Entre 1 et 2 millions d'habitants",
         "propositionquatre":"Plus de 2 millions d'habitants",
-        "reponse":"Plus de 2 millions d'habitants ",
+        "reponse":"Plus de 2 millions d'habitants",
         "petiteinfo":" La population de l’agglomération est d’environ 2 931 445 habitants. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/1/11/Nyhavn-panorama.jpg",
         "legende":"Nyhavn - un canal à Copenhagen"
@@ -1187,7 +1186,7 @@
         "propositiondeux":"Entre 5 et 10 million d'habitants",
         "propositiontrois":"Entre 10 et 20 millions d'habitants",
         "propositionquatre":"Plus de 20 millions d'habitants",
-        "reponse":"Plus de 20 millions d'habitants ",
+        "reponse":"Plus de 20 millions d'habitants",
         "petiteinfo":" La population de l’agglomération est d’environ 23 426 128 habitants. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/8/8a/Quartier_de_Tianhe_Canton_Chine.jpg",
         "legende":"Canton"
@@ -1198,7 +1197,7 @@
         "propositiondeux":"Entre 5 et 10 million d'habitants",
         "propositiontrois":"Entre 10 et 20 millions d'habitants",
         "propositionquatre":"Plus de 20 millions d'habitants",
-        "reponse":"Plus de 20 millions d'habitants ",
+        "reponse":"Plus de 20 millions d'habitants",
         "petiteinfo":" La population de l’agglomération est d’environ 21 893 095  habitants. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hall_of_Supreme_Harmony.JPG/640px-Hall_of_Supreme_Harmony.JPG",
         "legende":"La cité interdite"
@@ -1209,7 +1208,7 @@
         "propositiondeux":"Entre 5 et 10 million d'habitants",
         "propositiontrois":"Entre 10 et 20 millions d'habitants",
         "propositionquatre":"Plus de 20 millions d'habitants",
-        "reponse":"Entre 5 et 10 million d'habitants ",
+        "reponse":"Entre 5 et 10 million d'habitants",
         "petiteinfo":" La population de l’agglomération est d’environ 5 407 264 habitants. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/1/19/Eixample_aire_cropped.jpg",
         "legende":"Barcelone vue du ciel"
@@ -1220,18 +1219,18 @@
         "propositiondeux":"Entre 5 et 10 million d'habitants",
         "propositiontrois":"Entre 10 et 20 millions d'habitants",
         "propositionquatre":"Plus de 20 millions d'habitants",
-        "reponse":" Plus de 20 millions d'habitants ",
+        "reponse":"Plus de 20 millions d'habitants",
         "petiteinfo":" La population de l’agglomération est d’environ 22 829 561 habitants ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Civic_Towers.jpg/640px-Civic_Towers.jpg ",
         "legende":"Lagos, Nigéria"
     },
     {
         "question":"Quelle est la capitale du Maroc ?",
-        "propositionune":" Casablanca ",
-        "propositiondeux":" Fès ",
-        "propositiontrois":" Rabat ",
-        "propositionquatre":" Tanger ",
-        "reponse":" Rabat ",
+        "propositionune":"Casablanca",
+        "propositiondeux":"Fès",
+        "propositiontrois":"Rabat",
+        "propositionquatre":"Tanger",
+        "reponse":"Rabat",
         "petiteinfo":"L’agglomération de Rabat compte environ 1,8 million d’habitants. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/7/7f/Rabat_Parlament.JPG",
         "legende":"Rabat, Maroc"
@@ -1242,7 +1241,7 @@
         "propositiondeux":"Entre 5 et 10 million d'habitants",
         "propositiontrois":"Entre 10 et 20 millions d'habitants",
         "propositionquatre":"Plus de 20 millions d'habitants",
-        "reponse":" Entre 5 et 10 million d'habitants ",
+        "reponse":"Entre 5 et 10 million d'habitants",
         "petiteinfo":" La population de l’agglomération est d’environ 5 367 206 habitants ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/4/49/Sydney_CBD_skyline%2C_January_2021.jpg",
         "legende":"Sydney"
@@ -1253,7 +1252,7 @@
         "propositiondeux":"Entre 500 000 et 1 million d'habitants",
         "propositiontrois":"Entre 1 et 2 millions d'habitants",
         "propositionquatre":"Plus de 2 millions d'habitants",
-        "reponse":" Moins de 500 000 habitants ",
+        "reponse":"Moins de 500 000 habitants",
         "petiteinfo":" La population de l’agglomération est d’environ 450 441 habitants ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Toulon_Faron3_P1440701-P1440708.jpg/640px-Toulon_Faron3_P1440701-P1440708.jpg ",
         "legende":"Toulon, France"
@@ -1264,7 +1263,7 @@
         "propositiondeux":"Entre 5 et 10 million d'habitants",
         "propositiontrois":"Entre 10 et 20 millions d'habitants",
         "propositionquatre":"Plus de 20 millions d'habitants",
-        "reponse":" Plus de 20 millions d'habitants ",
+        "reponse":"Plus de 20 millions d'habitants",
         "petiteinfo":" La population de l’agglomération est d’environ 26 000 782 habitants ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Seoul_%28175734251%29.jpeg/640px-Seoul_%28175734251%29.jpeg ",
         "legende":"Séoul, Corée du Sud"
@@ -1275,7 +1274,7 @@
         "propositiondeux":"Entre 5 et 10 million d'habitants",
         "propositiontrois":"Entre 10 et 20 millions d'habitants",
         "propositionquatre":"Plus de 20 millions d'habitants",
-        "reponse":" Entre 10 et 20 millions d'habitants ",
+        "reponse":"Entre 10 et 20 millions d'habitants",
         "petiteinfo":" La population de l’agglomération est d’environ 12 699 743 habitants ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Contrasts_of_Rio_de_Janeiro_-_Rocinha%2C_Ipanema%2C_and_Mountains_at_Sunrise.jpg/640px-Contrasts_of_Rio_de_Janeiro_-_Rocinha%2C_Ipanema%2C_and_Mountains_at_Sunrise.jpg ",
         "legende":"Rio de Janeiro, Brésil"
@@ -1286,7 +1285,7 @@
         "propositiondeux":"Entre 5 et 10 million d'habitants",
         "propositiontrois":"Entre 10 et 20 millions d'habitants",
         "propositionquatre":"Plus de 20 millions d'habitants",
-        "reponse":" Entre 10 et 20 millions d'habitants ",
+        "reponse":"Entre 10 et 20 millions d'habitants",
         "petiteinfo":" La population de l’agglomération est d’environ 10 985 285 habitants ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/La_Santa_Maria.JPG/640px-La_Santa_Maria.JPG ",
         "legende":" Arènes de Santamaría, Bogota "
@@ -1297,7 +1296,7 @@
         "propositiondeux":"Entre 500 000 et 1 million d'habitants",
         "propositiontrois":"Entre 1 et 2 millions d'habitants",
         "propositionquatre":"Plus de 2 millions d'habitants",
-        "reponse":" Entre 1 et 2 millions d'habitants ",
+        "reponse":"Entre 1 et 2 millions d'habitants",
         "petiteinfo":" La population de l’agglomération est d’environ 1 363 711 habitants ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bordeaux_Place_de_la_Bourse_de_nuit.jpg/640px-Bordeaux_Place_de_la_Bourse_de_nuit.jpg ",
         "legende":"Place de la bourse, Bordeaux"
@@ -1308,7 +1307,7 @@
         "propositiondeux":"Entre 500 000 et 1 million d'habitants",
         "propositiontrois":"Entre 1 et 2 millions d'habitants",
         "propositionquatre":"Plus de 2 millions d'habitants",
-        "reponse":" Plus de 2 millions d'habitants ",
+        "reponse":"Plus de 2 millions d'habitants",
         "petiteinfo":" La population de l’agglomération est d’environ 2 280 845 habitants ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Coucher_de_soleil_sur_la_Basilique_Notre-Dame_de_Fourvi%C3%A8re.jpg/640px-Coucher_de_soleil_sur_la_Basilique_Notre-Dame_de_Fourvi%C3%A8re.jpg ",
         "legende":"Lyon, France"
@@ -1319,7 +1318,7 @@
         "propositiondeux":"Entre 500 000 et 1 million d'habitants",
         "propositiontrois":"Entre 1 et 2 millions d'habitants",
         "propositionquatre":"Plus de 2 millions d'habitants",
-        "reponse":" Entre 1 et 2 millions d'habitants ",
+        "reponse":"Entre 1 et 2 millions d'habitants",
         "petiteinfo":" La population de l’agglomération est d’environ 1 510 079 habitants ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Lille_Alte_B%C3%B6rse_09.jpg/640px-Lille_Alte_B%C3%B6rse_09.jpg ",
         "legende":"Vieille bourse de Lille"
@@ -1330,7 +1329,7 @@
         "propositiondeux":"Entre 5 et 10 million d'habitants",
         "propositiontrois":"Entre 10 et 20 millions d'habitants",
         "propositionquatre":"Plus de 20 millions d'habitants",
-        "reponse":" Plus de 20 millions d'habitants ",
+        "reponse":"Plus de 20 millions d'habitants",
         "petiteinfo":" La population de l’agglomération est d’environ 20 892 724 habitants ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Casa_de_Azulejos_3.jpg/640px-Casa_de_Azulejos_3.jpg ",
         "legende":" Casa de los Azulejos , Mexico"
@@ -1341,7 +1340,7 @@
         "propositiondeux":"Entre 5 et 10 million d'habitants",
         "propositiontrois":"Entre 10 et 20 millions d'habitants",
         "propositionquatre":"Plus de 20 millions d'habitants",
-        "reponse":" Moins de 5 millions habitants ",
+        "reponse":"Moins de 5 millions habitants",
         "petiteinfo":" La population de l’agglomération est d’environ 3 259 710 habitants ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Portland_and_Mt._Hood_from_Pittock_Mansion.jpg/640px-Portland_and_Mt._Hood_from_Pittock_Mansion.jpg ",
         "legende":"Porland, États-Unis"
@@ -1352,7 +1351,7 @@
         "propositiondeux":" Dubrovnik ",
         "propositiontrois":" Sarajevo ",
         "propositionquatre":" Zagreb ",
-        "reponse":" Belgrade ",
+        "reponse":"Belgrade",
         "petiteinfo":" Sarajevo est une ville qui se situe en Bosnie-Herzégovine tandis que Dubrovnik et Zagreb sont des villes croates. ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Be%C5%BEanijski_Blokovi.jpg/899px-Be%C5%BEanijski_Blokovi.jpg ",
         "legende":" Le quartier des Blokovi  à Belgrade"
@@ -1363,40 +1362,40 @@
         "propositiondeux":" Fortaleza ",
         "propositiontrois":" Manaus ",
         "propositionquatre":" Porto Alegre ",
-        "reponse":" Manaus ",
+        "reponse":"Manaus",
         "petiteinfo":"Plus de 2,5 millions d’habitants vivent dans cette ville surnommée la porte de l’Amazonie.",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Teatro_Amazonas_%2848867193371%29.jpg/1024px-Teatro_Amazonas_%2848867193371%29.jpg?uselang=fr ",
         "legende":"Le théâtre de Manaus"
     },
     {
         "question":"Quelle est la capitale de la Colombie ?",
-        "propositionune":" Bogota ",
-        "propositiondeux":" Cali ",
-        "propositiontrois":" Medellin ",
-        "propositionquatre":" Quito ",
-        "reponse":" Bogota ",
+        "propositionune":"Bogota",
+        "propositiondeux":"Cali",
+        "propositiontrois":"Medellin",
+        "propositionquatre":"Quito",
+        "reponse":"Bogota",
         "petiteinfo":"Quito est la capitale de l’Equateur.",
         "image":" https://upload.wikimedia.org/wikipedia/commons/e/ed/BOG187.JPG ",
         "legende":" Bogota "
     },
     {
         "question":"Quelle est la capitale de l'Inde ?",
-        "propositionune":" Kolkata ",
-        "propositiondeux":" Mumbai ",
-        "propositiontrois":" New Delhi ",
-        "propositionquatre":" Pondichéry ",
-        "reponse":" New Delhi ",
+        "propositionune":"Kolkata",
+        "propositiondeux":"Mumbai",
+        "propositiontrois":"New Delhi",
+        "propositionquatre":"Pondichéry",
+        "reponse":"New Delhi",
         "petiteinfo":" New Delhi est une ville nouvelle créée au début du xxe siècle par la volonté des Britanniques de déplacer la capitale du Raj britannique, alors à Calcutta, vers une position plus centrale et symbolique.  ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Indian_President_House.jpg/1024px-Indian_President_House.jpg ",
         "legende":" Rashtrapati Bhavan, la résidence officielle du Premier Ministre indien."
     },
     {
         "question":"Quelle est la capitale de l'Écosse ?",
-        "propositionune":" Aberdeen ",
-        "propositiondeux":" Édimbourg ",
-        "propositiontrois":" Falkirk ",
-        "propositionquatre":" Glasgow  ",
-        "reponse":" Édimbourg ",
+        "propositionune":"Aberdeen",
+        "propositiondeux":"Édimbourg",
+        "propositiontrois":"Falkirk",
+        "propositionquatre":"Glasgow",
+        "reponse":"Édimbourg",
         "petiteinfo":"La ville est moins peuplée que Glasgow mais il s’agit bien de la capitale de l’Écosse.",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Arthurs_seat_edinburgh.jpg/640px-Arthurs_seat_edinburgh.jpg",
         "legende":" Édimbourg "
@@ -1407,7 +1406,7 @@
         "propositiondeux":"Austin ",
         "propositiontrois":"Dallas ",
         "propositionquatre":"Houston ",
-        "reponse":" Austin ",
+        "reponse":"Austin",
         "petiteinfo":" Albuquerque n’est pas située au Texas, il s’agit d’une ville de l’État du nouveau Mexique.",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TexasStateCapitol-2010-01.JPG/640px-TexasStateCapitol-2010-01.JPG ",
         "legende":" Capitole de l'État du Texas"
@@ -1418,7 +1417,7 @@
         "propositiondeux":"Sacramento",
         "propositiontrois":"San Diego",
         "propositionquatre":"San Francisco",
-        "reponse":" Sacramento ",
+        "reponse":"Sacramento",
         "petiteinfo":"Sacramento est une petite ville comparée à ses voisine de Los Angeles, Sans Francisco ou San Diego mais il s’agit bien de la capitale de l’État. ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sacramento_Capitol_2013.jpg/640px-Sacramento_Capitol_2013.jpg ",
         "legende":" Capitole de l'État de Californie"
@@ -1426,21 +1425,21 @@
     {
         "question":"Quelle est la devise de l’état de Californie ?",
         "propositionune":"Eureka!",
-        "propositiondeux":" North to the future ",
-        "propositiontrois":" Friendship ",
-        "propositionquatre":" Montani semper liberi  ",
-        "reponse":" Eureka!",
+        "propositiondeux":"North to the future",
+        "propositiontrois":"Friendship",
+        "propositionquatre":"Montani semper liberi",
+        "reponse":"Eureka!",
         "petiteinfo":"Cette devise est héritée de la ruée vers l’or californienne.  « North to the future » est la devise de l’Alaska, « Friendship » celle du Texas et « Montani semper liberi »,  qui signifie Les montagnards sont toujours libres, est celle de la Virginie-Occidentale.  ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Great_Seal_of_California.svg/478px-Great_Seal_of_California.svg.png",
         "legende":"Emblème de l’État de la Californie"
     },
     {
         "question":"Quelle est la capitale de la Nouvelle-Zélande ?",
-        "propositionune":" Adélaïde",
-        "propositiondeux":" Auckland",
-        "propositiontrois":" Brisbane",
-        "propositionquatre":" Wellington",
-        "reponse":" Wellington",
+        "propositionune":"Adélaïde",
+        "propositiondeux":"Auckland",
+        "propositiontrois":"Brisbane",
+        "propositionquatre":"Wellington",
+        "reponse":"Wellington",
         "petiteinfo":"L’agglomération de Wellington compte près de 500 000 habitants.",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lambton_Harbour%2C_Wellington_%28cropped%29.jpg/640px-Lambton_Harbour%2C_Wellington_%28cropped%29.jpg",
         "legende":"Wellington"
@@ -1451,7 +1450,7 @@
         "propositiondeux":"Entre 40 et 80 millions",
         "propositiontrois":"Entre 80 et 120 millions",
         "propositionquatre":"Plus de 120 millions",
-        "reponse":" Plus de 120 millions ",
+        "reponse":"Plus de 120 millions",
         "petiteinfo":" Selon la Banque mondiale, la population de l’Indonésie s’élevait à près de 275 millions d’habitants en 2021.",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mount_Bromo_at_sunrise%2C_showing_its_volcanoes_and_Mount_Semeru_%28background%29.jpg/1024px-Mount_Bromo_at_sunrise%2C_showing_its_volcanoes_and_Mount_Semeru_%28background%29.jpg ",
         "legende":" Les monts Semeru et Bromo à l'est de Java "
@@ -1462,7 +1461,7 @@
         "propositiondeux":"Entre 40 et 80 millions",
         "propositiontrois":"Entre 80 et 120 millions",
         "propositionquatre":"Plus de 120 millions",
-        "reponse":" Moins de 40 millions ",
+        "reponse":"Moins de 40 millions",
         "petiteinfo":"Selon la Banque mondiale, la population de la Malaisie s’élevait à 33,5 millions d’habitants en 2021.  ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kuala_Lumpur_at_dawn_%2818794580599%29.jpg/640px-Kuala_Lumpur_at_dawn_%2818794580599%29.jpg ",
         "legende":"Centre-ville de Kuala Lumpur, la capitale de la Malaisie"
@@ -1473,18 +1472,18 @@
         "propositiondeux":"Entre 40 et 80 millions",
         "propositiontrois":"Entre 80 et 120 millions",
         "propositionquatre":"Plus de 120 millions",
-        "reponse":" Entre 80 et 120 millions ",
+        "reponse":"Entre 80 et 120 millions",
         "petiteinfo":"Selon la Banque mondiale, en 2021, le pays comptait environ 97,5 millions d’habitants",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ngomon2.jpg/1024px-Ngomon2.jpg ",
         "legende":"Monument à Huế "
     },
     {
         "question":"Quelle est la capitale du Viêt Nam ?",
-        "propositionune":" Hanoï ",
-        "propositiondeux":" Hô Chi Minh-Ville ",
-        "propositiontrois":" Phnom Penh ",
-        "propositionquatre":" Vientiane ",
-        "reponse":" Hanoï ",
+        "propositionune":"Hanoï",
+        "propositiondeux":"Hô Chi Minh-Ville",
+        "propositiontrois":"Phnom Penh",
+        "propositionquatre":"Vientiane",
+        "reponse":"Hanoï",
         "petiteinfo":" Hô Chi Minh-Ville est la capitale économique du pays, mais la capitale administrative du Viêt Nam est bien Hanoï. Phnom Penh est la capitale du Cambodge tandis que Vientiane est la capitale du Laos.",
         "image":" https://upload.wikimedia.org/wikipedia/commons/0/07/West_Hanoi.jpg ",
         "legende":"Hanoï"
@@ -1495,7 +1494,7 @@
         "propositiondeux":"Une grue royale",
         "propositiontrois":"Un AK-47",
         "propositionquatre":"Un voilier et un cocotier",
-        "reponse":" Une grue royale ",
+        "reponse":"Une grue royale",
         "petiteinfo":"La grue royale est un symbole du pays. ",
         "image":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg",
         "legende":"Drapeau de l’Ouganda"
@@ -1506,62 +1505,62 @@
         "propositiondeux":"Une grue royale",
         "propositiontrois":"Un AK-47",
         "propositionquatre":"Un voilier et un cocotier",
-        "reponse":" Un AK-47",
+        "reponse":"Un AK-47",
         "petiteinfo":"On peut aussi voir sur ce drapeau une étoile jaune sur un fond rouge qui représente le marxisme, une houe qui représente l’agriculture, un livre qui représente l’importance de l’éducation et donc l’AK-47 qui rappelle la lutte pour l’indépendance menée par le Mozambique contre le Portugal.",
         "image":" https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
         "legende":"Drapeau du Mozambique"
     },
     {
         "question":"Laquelle de ces villes est située la plus au nord ?",
-        "propositionune":" Montréal ",
-        "propositiondeux":" New-York ",
-        "propositiontrois":" Paris ",
-        "propositionquatre":" Pékin ",
-        "reponse":" Paris ",
+        "propositionune":"Montréal",
+        "propositiondeux":"New-York",
+        "propositiontrois":"Paris",
+        "propositionquatre":"Pékin",
+        "reponse":"Paris",
         "petiteinfo":"C’est Paris qui la ville la plus proche du pôle Nord.",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/The_Blue_Marble_%28remastered%29.jpg/480px-The_Blue_Marble_%28remastered%29.jpg ",
         "legende":" La Bille bleue, Apollo 17 "
     },
     {
         "question":"A quel pays appartient l'île de la Nouvelle Irlande ?",
-        "propositionune":" À la Papouasie-Nouvelle-Guinée ",
-        "propositiondeux":" À l'Irlande ",
-        "propositiontrois":" Au Royaume-Uni ",
-        "propositionquatre":" Aux États-Unis ",
-        "reponse":" À la Papouasie-Nouvelle-Guinée ",
+        "propositionune":"À la Papouasie-Nouvelle-Guinée",
+        "propositiondeux":"À l'Irlande",
+        "propositiontrois":" Au Royaume-Uni",
+        "propositionquatre":" Aux États-Unis",
+        "reponse":"À la Papouasie-Nouvelle-Guinée",
         "petiteinfo":"Plus de 115 000 personnes vivent aujourd’hui sur l’île",
         "image":" https://upload.wikimedia.org/wikipedia/commons/4/4d/NewIrelandOMC.png ",
         "legende":"Carte de la Nouvelle-Irlande"
     },
     {
         "question":"Où vivent les Cajuns (appelé aussi les cadiens) ?",
-        "propositionune":" Au Quebec ",
-        "propositiondeux":" En Bretagne ",
-        "propositiontrois":" En Louisiane ",
-        "propositionquatre":" En Occitanie ",
-        "reponse":" En Louisiane ",
+        "propositionune":"Au Québec",
+        "propositiondeux":"En Bretagne",
+        "propositiontrois":"En Louisiane",
+        "propositionquatre":"En Occitanie",
+        "reponse":"En Louisiane",
         "petiteinfo":"Les Cajuns forment un groupe ethnique en Louisiane dont les ancêtres comprennent les Acadiens, originaires de France, qui ont été déportés de l’Acadie ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_Acadiana.svg ",
         "legende":" Drapeau des Cadiens"
     },
     {
         "question":"Où vivent les Acadiens ?",
-        "propositionune":" Au Quebec ",
-        "propositiondeux":" En Bretagne ",
-        "propositiontrois":" En Louisiane ",
-        "propositionquatre":" En Occitanie ",
-        "reponse":" Au Quebec ",
-        "petiteinfo":" Les  Acadiens sont les descendants des premiers colons français établis en Acadie, dans la province canadienne du Nouveau-Brunswick à l'époque de la Nouvelle-France. Ils vivent aujourd’hui principalement au Quebec et pour une petite partie d’entre eux dans l’État américain du Maine. ",
+        "propositionune":"Au Québec",
+        "propositiondeux":"En Bretagne",
+        "propositiontrois":"En Louisiane",
+        "propositionquatre":"En Occitanie",
+        "reponse":"Au Québec",
+        "petiteinfo":" Les  Acadiens sont les descendants des premiers colons français établis en Acadie, dans la province canadienne du Nouveau-Brunswick à l'époque de la Nouvelle-France. Ils vivent aujourd’hui principalement au Québec et pour une petite partie d’entre eux dans l’État américain du Maine. ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/f/ff/Acadiennes_%282%29.jpg ",
         "legende":"Acadienne en 1895"
     },
     {
         "question":"Quel territoire a sur son drapeau un voilier et un cocotier ? ?",
-        "propositionune":" Guam ",
+        "propositionune":"Guam",
         "propositiondeux":" Hawaï ",
         "propositiontrois":" Mozambique ",
-        "propositionquatre":" Ouganda ",
-        "reponse":" Guam ",
+        "propositionquatre":"Ouganda",
+        "reponse":"Guam",
         "petiteinfo":" Guam est un territoire non incorporé des États-Unis disposant d'un gouverneur élu et d'un parlement. En 2017, sa population est de 164 229 habitants et sa capitale est Hagåtña. ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Guam.svg ",
         "legende":"Drapeau de Guam"
@@ -1583,7 +1582,7 @@
         "propositiondeux":"Entre 1000 et 2000 km",
         "propositiontrois":"Entre 2000 et 3000 km ",
         "propositionquatre":"Entre 3000 et 4000 km",
-        "reponse":" Entre 3000 et 4000",
+        "reponse":"Entre 3000 et 4000",
         "petiteinfo":"La distance à vol d’oiseau entre New-York et Los Angeles et d’environ  3 900 km. Il faut environ 6 heures pour rejoindre New-York à Los Angeles en avion.",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Map_of_USA_with_state_names_fr.svg/1024px-Map_of_USA_with_state_names_fr.svg.png",
         "legende":"Carte des États des États-Unis"
@@ -1594,7 +1593,7 @@
         "propositiondeux":"Entre 5 000 et 10 000 km",
         "propositiontrois":"Entre 10 000 et 15 000 km",
         "propositionquatre":"Entre 15 000 et 20 000 km",
-        "reponse":"Entre 15 000 et 20 000 km ",
+        "reponse":"Entre 15 000 et 20 000 km",
         "petiteinfo":"La distance est d’approximativement 16 800 kilomètre.",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flags_of_New_Caledonia.svg/640px-Flags_of_New_Caledonia.svg.png ",
         "legende":"Drapeau français et néo-calédonien"
@@ -1605,7 +1604,7 @@
         "propositiondeux":"5 383 km",
         "propositiontrois":"6 383 km",
         "propositionquatre":"7 383 km",
-        "reponse":"6 383 km ",
+        "reponse":"6 383 km",
         "petiteinfo":" Soit près de 1000 kilomètres de plus que la distance entre New-York et Brest à vol d’oiseau.",
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Russia_physical_location_map_%28Crimea_disputed%2C_compressed%29.jpg/640px-Russia_physical_location_map_%28Crimea_disputed%2C_compressed%29.jpg ",
         "legende":"Carte de la Russie"
