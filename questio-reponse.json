@@ -372,7 +372,7 @@
         "propositiontrois":"Le lac Victoria",
         "propositionquatre":"Le lac Supérieur",
         "reponse":"Le lac Supérieur",
-        "petiteinfo":"La Mer Caspienne n'est pas le plus grand lac du monde, pendant un temps son statut juridique complexe pour des raisons géopolitique la classée dans la catégorie des lacs mais ce n'est plus le cas depuis un accord signé par les pays riverains en 2018. Le lac Supérieur a une superficie de 82 100 km². ",
+        "petiteinfo":"La Mer Caspienne n'est pas le plus grand lac du monde, pendant un temps son statut juridique complexe pour des raisons géopolitique l'a classée dans la catégorie des lacs mais ce n'est plus le cas depuis un accord signé par les pays riverains en 2018. Le lac Supérieur a une superficie de 82 100 km². ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Lake_Superior_at_Neys_Provincial_Park_Ontario.jpg/640px-Lake_Superior_at_Neys_Provincial_Park_Ontario.jpg ",
         "legende":"Le lac supérieur"
     },
@@ -753,7 +753,7 @@
         "legende":"Dunes mouvantes, rochers et montagnes dans le Tadrart Acacus, la partie du désert du Sahara située au sud-ouest de la Libye"
     },
     {
-        "question":"En quelle année le premier câble télégraphique transatlantique a-t-il était installé ?",
+        "question":"En quelle année le premier câble télégraphique transatlantique a-t-il été installé ?",
         "propositionune":"1808",
         "propositiondeux":"1858",
         "propositiontrois":"1908",
@@ -808,7 +808,7 @@
         "legende":"diagonal Norte à Buenos Aires"
     },
     {
-        "question":"Quelcité pourcentage des terres immergées occupe la Toundra ? ",
+        "question":"Quel pourcentage des terres immergées occupe la Toundra ? ",
         "propositionune":" moins de 5%",
         "propositiondeux":"entre 5% et 10%",
         "propositiontrois":"entre 10 et 15%",
@@ -929,12 +929,12 @@
         "legende":"Les suffragettes britanniques Annie Kenney et Christabel Pankhurst manifestent pour le droit de vote des femmes, 1908."
     },
     {
-        "question":"Dans quel pays les Hommes sont-ils les plus grand",
-        "propositionune":"Les Français",
-        "propositiondeux":"Les Hollandais",
-        "propositiontrois":"Les Islandais",
-        "propositionquatre":"Les Tchèques",
-        "reponse":"Les Hollandais",
+        "question":"Dans quel pays les Hommes sont-ils les plus grands",
+        "propositionune":"En France",
+        "propositiondeux":"Aux Pays-Bas",
+        "propositiontrois":"En Islande",
+        "propositionquatre":"Au Kenya",
+        "reponse":"Aux Pays-Bas",
         "petiteinfo":" Selon la NCD Risk Factor Collaboration, Les Hollandais mesurent en moyenne 175,62 cm, les Tchèques 174,28 cm (5ème du classement), Les Islandais 173,21 cm (10ème) et les français 172,31 cm (21ème).",
         "image":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Dutch_football_supporters_20120609_%281%29.jpg",
         "legende":"Spectateurs hollandais pendant un match de foot."
@@ -1403,9 +1403,9 @@
     {
         "question":"Quelle est la capitale de l’État du Texas ?",
         "propositionune":"Albuquerque ",
-        "propositiondeux":"Austin ",
-        "propositiontrois":"Dallas ",
-        "propositionquatre":"Houston ",
+        "propositiondeux":"Austin",
+        "propositiontrois":"Dallas",
+        "propositionquatre":"Houston",
         "reponse":"Austin",
         "petiteinfo":" Albuquerque n’est pas située au Texas, il s’agit d’une ville de l’État du nouveau Mexique.",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TexasStateCapitol-2010-01.JPG/640px-TexasStateCapitol-2010-01.JPG ",
@@ -1615,7 +1615,7 @@
         "propositiondeux":"Bornéo",
         "propositiontrois":" Groenland ",
         "propositionquatre":"La Nouvelle-Guinée ",
-        "reponse":"L’Australie ",
+        "reponse":"L’Australie",
         "petiteinfo":"L’Australie a une superficie de 7 692 024 km2 C’est près de deux fois la superficie de l’Inde.",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Australia_satellite_plane.jpg/583px-Australia_satellite_plane.jpg ",
         "legende":"L’Australie"
@@ -1630,6 +1630,307 @@
         "petiteinfo":"Naît en France, Pierre Charles L’enfant arrive au États-Unis comme ingénieur civil pendant la guerre de Sécession. ",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Plan_of_the_city_intended_for_the_permanent_seat_of_the_government_of_the_United_States_-_projected_agreeable_to_the_direction_of_the_President_of_the_United_States..._%2814726320702%29.jpg/640px-thumbnail.jpg ",
         "legende":"Plan de Washington dessiné par Pierre Charles l’Enfant"
+    },
+    {
+        "question":"À propos de quel pays parlait Wiston Churchill lorsqu'il a dit : 'rébus enveloppé de mystère au sein d'une énigme' ?",
+        "propositionune":"La Chine",
+        "propositiondeux":"Les États-Unis",
+        "propositiontrois":"La France",
+        "propositionquatre":"La Russie",
+        "reponse":"La Russie",
+        "petiteinfo":"Winston Churchill a été Premier ministre du Royaume-Uni de mai 1940 à juillet 1945 puis d’octobre 1951 à avril 1955.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sir_Winston_Churchill_-_19086236948_%28cropped2%29.jpg/372px-Sir_Winston_Churchill_-_19086236948_%28cropped2%29.jpg",
+        "legende":"Wiston Churchill"
+    },
+    {
+        "question":"A propos de quel pays Georges Clemenceau à dit qu'il s'agissait d''une colonie française qui avait mal tourné' ?",
+        "propositionune":"L'Algérie",
+        "propositiondeux":"L'Allemgne",
+        "propositiontrois":"L'Angleterre",
+        "propositionquatre":"Haïti",
+        "reponse":"L'Angleterre",
+        "petiteinfo":"Lorsqu'il disait cela Geroges Clemenceau faisait référence à la conquête de l'Angleterre par les Normands.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Georges_Clemenceau_-_photo_%C3%89tienne_Carjat.jpg/640px-Georges_Clemenceau_-_photo_%C3%89tienne_Carjat.jpg",
+        "legende":"Georges Clemenceau"
+    },
+    {
+        "question":"Quelle est la plus haute montagne de l'Amérique du Sud ?",
+        "propositionune":"Aconcagua",
+        "propositiondeux":"Chimborazo",
+        "propositiontrois":"Pic Humboldt",
+        "propositionquatre":"Pico Bolívar",
+        "reponse":"Aconcagua",
+        "petiteinfo":"L'Aconcagua atteint 6 962 mètres d'altitude",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Aconcagua_13.JPG/640px-Aconcagua_13.JPG",
+        "legende":"Aconcagua, Argentine"
+    },
+    {
+        "question":"Quelle est la plus haute montagne de l'Amérique du Nord ?",
+        "propositionune":"Denali",
+        "propositiondeux":"Mont Logan",
+        "propositiontrois":"Mont Saint-Élie",
+        "propositionquatre":"Pic King",
+        "reponse":"Denali",
+        "petiteinfo":"Il atteint une hauteur de 6190 mètres.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wonder_Lake_and_Denali.jpg/623px-Wonder_Lake_and_Denali.jpg",
+        "legende":"Mont Denali, États-Unis"
+    },
+    {
+        "question":"Quelle est la seule mer à ne pas avoir de littoral ?",
+        "propositionune":" La mer de Barents",
+        "propositiondeux":"La mer de la manche",
+        "propositiontrois":"La mer des Laquedives",
+        "propositionquatre":"La Mer des sargasses",
+        "reponse":"La Mer des sargasses",
+        "petiteinfo":"Elle est bordée par le Gulf Stream à l'ouest et au nord-ouest, la dérive nord atlantique au nord, le courant des Canaries à l'est, et le courant nord équatorial au sud. Contrairement à toutes les autres mers du globe, elle n'a pas de côtes (source : Wikipédia). ",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Lines_of_sargassum_Sargasso_Sea.jpg",
+        "legende":"Ligne de sargasse dans la mer du même nom"
+    },
+    {
+        "question":"Sur quelle mer donne la ville de Saint-Pétersbourg ?",
+        "propositionune":"La mer Baltique",
+        "propositiondeux":"La mer Blanche",
+        "propositiontrois":"La mer de Norvège",
+        "propositionquatre":"La mer des Barents",
+        "reponse":"La mer Baltique",
+        "petiteinfo":"En raison de ses nombreux cannaux, Saint-Pétersbourg est parfois surnomée la « Venise de la Baltique »",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Saint_Isaac%27s_Cathedral_in_SPB.jpeg/640px-Saint_Isaac%27s_Cathedral_in_SPB.jpeg",
+        "legende":"La cathédrale Saint-Isaac, à Saint-Pétersbourg"
+    },
+    {
+        "question":"Où se trouve le golfe du Lion ?",
+        "propositionune":"Sur le littoral de la France et de l'Espagne",
+        "propositiondeux":"Sur le littoral du Sénégal et de la Gambie",
+        "propositiontrois":"Sur le littoral de l'Inde",
+        "propositionquatre":"Sur le littoral de l'Afrique du Sud",
+        "reponse":"Sur le littoral de la France et de l'Espagne",
+        "petiteinfo":"Le golfe du Lion est un golfe fermant l'extrême nord-ouest de la Méditerranée occidentale, entre le cap de Creus, situé en Catalogne à l'ouest et le cap Sicié dans le Var. (source : Wikipédia)",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Gulf_of_Lion_map.png/631px-Gulf_of_Lion_map.png",
+        "legende":"Carte du Golfe du Lion"
+    },
+    
+    {
+        "question":"De combien d'États différents sont composés les États-Unis d'Amérique ?",
+        "propositionune":"Moins de 25",
+        "propositiondeux":"Entre 25 et 35",
+        "propositiontrois":"Entre 36 et 45",
+        "propositionquatre":"Plus de de 45",
+        "reponse":"Plus de de 45",
+        "petiteinfo":"Il y a 50 États aux États-Unis",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Map_of_USA_with_state_names.svg/640px-Map_of_USA_with_state_names.svg.png",
+        "legende":"Carte des États-Unis"
+    },
+    {
+        "question":"Comment s'appelle l'Océan à l'Est de l'Afrique ?",
+        "propositionune":"l'Océan d'Afrique orientale",
+        "propositiondeux":"l'Océan De Chine",
+        "propositiontrois":"l'Océan Indien ",
+        "propositionquatre":"l'Océan Pacifique",
+        "reponse":"l'Océan Indien",
+        "petiteinfo":"L'Océan Indien a une superficie d'environ 70 560 000 km2.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Indian_Ocean-CIA_WFB_Map.png",
+        "legende":"Carte de l'Océan Indien"
+    },
+    {
+        "question":"Après l'Île-de-France quelle est la région français qui a le PIB/ habitant le plus important ?",
+        "propositionune":"Auvergne-Rhône-Alpes",
+        "propositiondeux":"La Bretagne",
+        "propositiontrois":"Le Centre-Val de Loire",
+        "propositionquatre":"La Provence-Alpes-Côte d'Azur",
+        "reponse":"Auvergne-Rhône-Alpes",
+        "petiteinfo":"Le PIB par habitants de la région Auvergne-Rhône-Alpes est de 33,2 milliers d'euros. Il est de 57,6 d'euros en Île-de-France",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/d/d2/Blason_Auvergne-Rh%C3%B4ne-Alpes.svg",
+        "legende":"Blason de la région Auvergne-Rhône-Alpes"
+    },
+   
+    {
+        "question":"Quels fleuves se rejoignent à Lyon ?",
+        "propositionune":"Le Rhône et la Loire",
+        "propositiondeux":"Le Rhône et l'Isère",
+        "propositiontrois":"Le Rhône et le Rhin",
+        "propositionquatre":"Le Rhône et la Saône",
+        "reponse":"Le Rhône et la Saône",
+        "petiteinfo":"La Saône a une longueur de près de 480  tandis que le Rhône à une longueure 545 km.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/69123-Lyon-Sols.png/604px-69123-Lyon-Sols.png",
+        "legende":"Carte de Lyon"
+    },
+    {
+        "question":"Quelle est la superficie de l'Inde ?",
+        "propositionune":"Moins 2 millions de km2",
+        "propositiondeux":"Entre 2 millions et 4 millions de km2",
+        "propositiontrois":"Entre 4 millions et 6 millions de km2",
+        "propositionquatre":"Plus de 6 millions de Km2",
+        "reponse":"Entre 2 millions et 4 millions de km2",
+        "petiteinfo":"La Superficie de l'Inde est de : 3 287 260 km2",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/c/c0/Inde_carte.png",
+        "legende":"Carte de l'Inde"
+    },
+    {
+        "question":"Quelle est la langue officielle de l'Angola ?",
+        "propositionune":"L'Anglais",
+        "propositiondeux":"Le Français",
+        "propositiontrois":"Le Portugais",
+        "propositionquatre":"Le Swahili",
+        "reponse":"Le Portugais",
+        "petiteinfo":"L'Angola a été une colonie portugaise jusqu'en 1975.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/f/ff/Emblem_of_Angola.svg",
+        "legende":"Emblème de l'Angola"
+    },
+    {
+        "question":"Lequel de ces pays fait partie de l'hémisphère Sud ?",
+        "propositionune":"Le Japon ",
+        "propositiondeux":"La Nouvelle-Zélande",
+        "propositiontrois":"Le Sénégal",
+        "propositionquatre":"Le Venezuela",
+        "reponse":"La Nouvelle-Zélande",
+        "petiteinfo":"La Nouvelle-Zélande compte environ 5 millions d'habitants. ",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/b/b1/Hemisferio_Sur.png",
+        "legende":"Les pays de l'hémisphère Sud"
+    },
+    {
+        "question":"Combien de sommets dépassent les 8000 mètres d'altitude ?",
+        "propositionune":"Moins de 6",
+        "propositiondeux":"Entre 6 et 10",
+        "propositiontrois":"Entre 10 et 14",
+        "propositionquatre":"Plus de 14",
+        "reponse":"Entre 10 et 14",
+        "petiteinfo":"Il y en a 12 et tous se situent en Asie",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/K2_Nordseite.jpg/640px-K2_Nordseite.jpg",
+        "legende":"Le K2, frontière sino-pakistanaise"
+    },
+    {
+        "question":"Lequel de ces pays est le mieux classé dans le classement mondial de la liberté de la presse 2023 réalisé par Reporter Sans Frontière  ?",
+        "propositionune":"L'Espagne ",
+        "propositiondeux":"La France",
+        "propositiontrois":"L'Italie",
+        "propositionquatre":"La Namibie",
+        "reponse":"La Namibie",
+        "petiteinfo":"La Namibie est 12ème du classement, la France 24ème,l'Espagne 36ème et l'Italie 41ème  ",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/South_African-Namibian_Border.jpg/640px-South_African-Namibian_Border.jpg",
+        "legende":"Frontière entre la Namibie et l'Afrique du Sud"
+    },
+    {
+        "question":"Quel pays est classé premier dans le classement mondial de la liberté de la presse 2023 réalisé par Reporter Sans Frontière ?",
+        "propositionune":"Le Canada",
+        "propositiondeux":"Les États-Unis",
+        "propositiontrois":"La Norvège",
+        "propositionquatre":"La Turquie",
+        "reponse":"La Norvège",
+        "petiteinfo":"La Norvège se positionne en première place de ce classement devant l'Irlande et le Danemark. Le Canada est 15ème, les ÉTats-Unis 45ème tandis que la Turquie est 149ème.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/640px-Flag_of_Norway.svg.png",
+        "legende":"Drapeau de la Norvège"
+    },
+    {
+        "question":"Quel est le nom du véritable Robinson Crusoé ?",
+        "propositionune":"Alexander Selkirk",
+        "propositiondeux":"Michel Tournier",
+        "propositiontrois":"Richard Steele",
+        "propositionquatre":"Sir Richard Burton",
+        "reponse":"Alexander Selkirk",
+        "petiteinfo":"Alexander Selkirk a vécu près de quatre ans et quatre mois seul sur une île du Pacifique.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Alexander_Selkirk_Title_Page.jpg",
+        "legende":"The Life and Adventures of Alexander Selkirk, the Real Robinson Crusoe (1835), auteurinconnu"
+    },
+    {
+        "question":"Dans quel Océan se situe la mer de Beaufort ?",
+        "propositionune":"Dans l'Océan Arctique",
+        "propositiondeux":"Dans l'Océan Atlantique",
+        "propositiontrois":"Dans l'Océan Indien",
+        "propositionquatre":"Dans l'Océan Pacifique",
+        "reponse":"Dans l'Océan Arctique",
+        "petiteinfo":"La mer de Beaufort fait partie de l'océan Arctique et s'étend sur une superficie d'environ 450 000 km2 ",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/3/33/MerdeBeaufort.png",
+        "legende":"Carte de la mer de Beaufort"
+    },
+  
+    {
+        "question":"Dans quel pays se situe la côte de Malabar ?",
+        "propositionune":"En Inde",
+        "propositiondeux":"Au Mozambique",
+        "propositiontrois":"En Namibie",
+        "propositionquatre":"En Tanzanie",
+        "reponse":"En Inde",
+        "petiteinfo":"Les États indiens de Goa, de Karnataka, du Kerala et du Tamil Nadu se situe sur cette côte",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/India_Malabar_Coast_locator_map.svg/425px-India_Malabar_Coast_locator_map.svg.png",
+        "legende":"Carte de la cote de Malabar"
+    },
+    {
+        "question":"Quelle est la capitale du Bhoutan ?",
+        "propositionune":"Katmandou",
+        "propositiondeux":"Nassau",
+        "propositiontrois":"Tombouctou",
+        "propositionquatre":"Thimphou",
+        "reponse":"Thimphou",
+        "petiteinfo":"La ville compte environ 115 000 habitants",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Thimphu_from_the_south_080907.JPG/640px-Thimphu_from_the_south_080907.JPG",
+        "legende":"Thimphou, Bhoutan"
+    },
+    {
+        "question":"Lequel de ces pays a le PIB par habitants le plus élevé ?",
+        "propositionune":"La Belgique",
+        "propositiondeux":"Le Danemark",
+        "propositiontrois":"La France",
+        "propositionquatre":"Les Pays-Bas",
+        "reponse":"Le Danemark",
+        "petiteinfo":"Selon la banque mondile, avec un Pib/ habitant de 40 963$ courants en 2022, la France est le pays avec le plus fable PIB/hab. de la liste, loin derrière le Danemark (66 983$), Les Pays-Bas (55 985$) et la Belgique (49 582$) ",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/2018_-_Nyhavn_on_sunset.jpg/640px-2018_-_Nyhavn_on_sunset.jpg ",
+        "legende":"Nyhavn à Copenhague"
+    },
+    {
+        "question":" Laquelle de ces villes ressemble à un oiseau vue du ciel ?",
+        "propositionune":"Brasilia",
+        "propositiondeux":"Chandigarh",
+        "propositiontrois":"Florence",
+        "propositionquatre":"San Francisco",
+        "reponse":"Brasilia",
+        "petiteinfo":"Lucci Costa, l'architecte et urbaniste qui a réalisé les plan de Brasilia était un disciple de Le Corbusier.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Brasilia_-_Plan.JPG/640px-Brasilia_-_Plan.JPG ",
+        "legende":"Dessin du plan pilote de Brasilia réalisé par Lucio Costa"
+    },
+    {
+        "question":"À quel pays appartient l'archipel de Zanzibar ?",
+        "propositionune":"Aux États-Unis",
+        "propositiondeux":"À la France",
+        "propositiontrois":"À l'Inde",
+        "propositionquatre":"À la Tanzanie",
+        "reponse":"À la Tanzanie",
+        "petiteinfo":"L'archipel compte environ 75 îles",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Spice_Islands_Tanzania-fr.svg/389px-Spice_Islands_Tanzania-fr.svg.png",
+        "legende":"Carte de l'archipel de Zanzibar"
+    },
+ 
+    {
+        "question":"Quel pays borde la mer d'Iroise ?",
+        "propositionune":"L'Argentine",
+        "propositiondeux":"La Colombie",
+        "propositiontrois":"La France",
+        "propositionquatre":"La Tanzanie",
+        "reponse":"La France",
+        "petiteinfo":"La mer d'Iroise est une division de la mer Celtique, qui est elle-même division de l'océan Atlantique.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Carte_mer_d%27Iroise.png/610px-Carte_mer_d%27Iroise.png",
+        "legende":"Carte de la mer d'Iroise"
+    },
+    {
+        "question":"Sur combien de fuseaux horaires s'étend la Russie ?",
+        "propositionune":"1",
+        "propositiondeux":"5",
+        "propositiontrois":"11",
+        "propositionquatre":"18",
+        "reponse":"11",
+        "petiteinfo":"Lorsqu'il est 11 heures du matin à Kaliningrad il est 21 heures dans le Kraï du Kamtchatka.",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Map_of_Russian_time_zones_%282020%29_-_without_Crimea.svg/640px-Map_of_Russian_time_zones_%282020%29_-_without_Crimea.svg.png",
+        "legende":"Carte des fuseaux horaires en Russie"
+    },
+    {
+        "question":"Dans quelle mer ou dans quel océan se jette l'Amazone ?",
+        "propositionune":"Dans l'Océan Atlantique",
+        "propositiondeux":"Dans la mer des Caraïbes",
+        "propositiontrois":"Dans l'Océan Pacifique",
+        "propositionquatre":"Dans la mer des Sargasses",
+        "reponse":"Dans l'Océan Atlantique",
+        "petiteinfo":"Le volume d'eau douce déversé dans l'océan Atlantique par l'Amazone est si élevé que la salinité et la couleur de l'Atlantique sont modifiées jusqu'à 300 km des côtes (source : Wikipédia).",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon-river-delta-NASA.jpg/639px-Amazon-river-delta-NASA.jpg",
+        "legende":"Image satellite de l'embouchure de l'Amazon."
     },
     {
         "question":"Combien la France compte-t-elle de départements ?",
