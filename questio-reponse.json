@@ -1,10 +1,10 @@
 [
     {
         "question": "Lequel de ces pays a obtenu son indépendance en dernier ?",
-        "propositionune": "L'Irlande",
-        "propositiondeux": "Le Liberia",
-        "propositiontrois": "Le Mexique",
-        "propositionquatre": "La Colombie",
+        "propositionune": "La Colombie",
+        "propositiondeux": "L'Irlande",
+        "propositiontrois": "Le Liberia",
+        "propositionquatre": "Le Mexique",
         "reponse": "L'Irlande",
         "petiteinfo": "L'Irlande a obtenu son indépendance en 1937, le Liberia en 1847, le Mexique en 1821 et la Colombie en 1819.",
         "image": " https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Birth_of_the_Irish_Republic.jpg/640px-Birth_of_the_Irish_Republic.jpg ",
