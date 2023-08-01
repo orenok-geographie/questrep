@@ -1582,7 +1582,7 @@
         "propositiondeux":"Entre 1000 et 2000 km",
         "propositiontrois":"Entre 2000 et 3000 km ",
         "propositionquatre":"Entre 3000 et 4000 km",
-        "reponse":"Entre 3000 et 4000",
+        "reponse":""Entre 3000 et 4000 km",
         "petiteinfo":"La distance à vol d’oiseau entre New-York et Los Angeles et d’environ  3 900 km. Il faut environ 6 heures pour rejoindre New-York à Los Angeles en avion.",
         "image":" https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Map_of_USA_with_state_names_fr.svg/1024px-Map_of_USA_with_state_names_fr.svg.png",
         "legende":"Carte des États des États-Unis"
